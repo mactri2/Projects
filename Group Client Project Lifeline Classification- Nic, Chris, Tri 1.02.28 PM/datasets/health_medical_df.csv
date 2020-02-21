@@ -1,0 +1,1001 @@
+Business,Category,Lifeline,Latitude,Longitude,Zipcode
+Massachusetts General Hospital,hospitals,3,42.363155,-71.068834,02114
+Brigham & Women's Hospital,hospitals,3,42.335929,-71.106716,02115
+Boston Children's Hospital,hospitals,3,42.3372730209928,-71.1059970977132,02115
+New England Baptist Hospital,hospitals,3,42.32919,-71.10626,02120
+Fenway Health,medcenters,3,42.3440775,-71.0989879,02215
+Beth Israel Deaconess Medical Center,hospitals,3,42.339749,-71.105063,02215
+Dana-Farber Cancer Institute,hospitals,3,42.3374895,-71.1081414,02215
+Planned Parenthood - Greater Boston Health Center,medcenters,3,42.3518047572808,-71.1203384399414,02215
+Copley - Harvard Vanguard,internalmed,3,42.347841,-71.076018,02116
+Massachusetts Eye and Ear,hospitals,3,42.36276,-71.07014,02114
+Tufts Medical Center,medcenters,3,42.349481,-71.063154,02111
+Post Office Square - Harvard Vanguard,medcenters,3,42.3572346,-71.054212,02109
+AFC Urgent Care Watertown,urgent_care,3,42.36391,-71.16545,02472
+St Elizabeth's Medical Center,medcenters,3,42.3495558,-71.148288,02135
+Kenmore - Harvard Vanguard,medcenters,3,42.34545,-71.10057,02215
+Sidney Borum Junior Health Center,medcenters,3,42.3502516,-71.0605958,02205
+Crosstown Center Garage,medcenters,3,42.3324062012579,-71.0738137729385,02119
+Boston Obstetrics & Gynecology,medcenters,3,42.3321479,-71.1155506,02445
+Cambridge - Harvard Vanguard,medcenters,3,42.37486,-71.1083,02138
+North End Waterfront Health Center,medcenters,3,42.3647004,-71.0537366,02113
+Mount Auburn Hospital Walk-In Clinic,medcenters,3,42.374114,-71.134291,02138
+Partners Urgent Care,urgent_care,3,42.3511543543907,-71.0658491409048,02116
+South End Community Health Center,medcenters,3,42.3382999,-71.07492,02118
+South Boston Community Health Center,medcenters,3,42.33671,-71.0482,02127
+CHA Cambridge Hospital,hospitals,3,42.37442,-71.10444,02139
+Project Trust,medcenters,3,42.3337018489838,-71.0738255828619,02118
+Mgh Dental Group,generaldentistry,3,42.362738,-71.068288,02114
+Children's Hospital Boston Blood Donor Center,hospitals,3,42.338498,-71.1054,02115
+Watertown - Harvard Vanguard,medcenters,3,42.362475,-71.160994,02472
+Franciscan Children's,hospitals,3,42.350167,-71.143396,02135
+Mount Auburn Hospital,hospitals,3,42.374134,-71.134408,02138
+CHA Cambridge Birth Center,hospitals,3,42.37442,-71.10444,02139
+CareWell Urgent Care Centers,urgent_care,3,42.373627,-71.101184,02138
+Beth Israel Deaconess HealthCare-Boston,medcenters,3,42.3571144,-71.0584075,02108
+MGH Medical Walk-In Unit,physicians,3,42.3625,-71.06825,02114
+CHA Cambridge Family Health North,medcenters,3,42.3918266296387,-71.1227035522461,02140
+East Boston Neighborhood Health Center,urgent_care,3,42.37233,-71.03831,02128
+Mgh Avon Breast Center,medcenters,3,42.362545,-71.0693665,02114
+Harvard University Health Services,collegeuniv,3,42.372236,-71.118665,02138
+Floating Hospital For Children,hospitals,3,42.3501855,-71.0635904,02111
+US Gov't VAMC West Roxbury,hospitals,3,42.2759174,-71.1723875,02132
+Boston STD Clinic,medcenters,3,42.3331427,-71.0731756,02118
+St Elizabeth's Health Care,medcenters,3,42.348622,-71.148138,02135
+Shriners Hospitals for Children,hospitals,3,42.36305,-71.06644,02114
+Beth Israel Deaconess Urgent Care at Chelsea,emergencymedicine,3,42.40277,-71.02011,02150
+CHA Somerville Hospital,hospitals,3,42.3904817,-71.1088964,02143
+Brigham and Women's Faulkner Hospital,hospitals,3,42.3003492,-71.1278672,02130
+Joslin Diabetes Center,medcenters,3,42.3386585712433,-71.1089638620615,02215
+Somerville - Harvard Vanguard,medcenters,3,42.39743,-71.12372,02144
+AFC Urgent Care Arlington,medcenters,3,42.42424,-71.1853299,02476
+MIT Medical,medcenters,3,42.361309,-71.0866,02139
+Women's Health Services,medcenters,3,42.3369203,-71.1213142,02446
+Hospitality Homes,hospitals,3,42.3484839660172,-71.0971697267334,02215
+CHA Windsor Street Care Center,hospitals,3,42.36464,-71.09681,02139
+BIDMC Washington Square Group,medcenters,3,42.3387699,-71.13227,02446
+Whittier Street  Health Center,medcenters,3,42.3327661,-71.0919855,02120
+Boston University Cosmetic and Laser Center,dermatology,3,42.350914,-71.117856,02215
+Codman Square Health Center,medcenters,3,42.289374,-71.071333,02124
+Women's Health Group at Boston Medical Center,physicians,3,42.33797,-71.07111,02118
+MGH Beacon Hill Primary Care Associates,hospitals,3,42.36139,-71.06509,02114
+Medford - Harvard Vanguard,medcenters,3,42.418309,-71.107023,02155
+Beth Israel Deaconess Medical Center - Emergency Department,emergencymedicine,3,42.3382712269384,-71.1090408876167,02115
+Boston IVF - Brookline,fertility,3,42.332533,-71.11505,02445
+Tufts Community Care,familydr,3,42.39934,-71.10993,02145
+Massachusetts General Hospital Yawkey Outpatient Care Center,oncologist,3,42.3615440978747,-71.0698056221008,02114
+Hoffman Breast Center - Mount Auburn Hospital,hospitals,3,42.3741130731504,-71.1342135071754,02139
+Mass General Medical Group,medcenters,3,42.36252,-71.06434,02114
+Carney Hospital,hospitals,3,42.277399,-71.065257,02124
+Cambridge Health Alliance,physicians,3,42.37442,-71.10444,02139
+Partners Urgent Care,urgent_care,3,42.387221,-71.118536,01801
+Blue Hill Adult Day Health Center,medcenters,3,42.29036,-71.08981,02124
+South Cove Community Health Center,medcenters,3,42.34799,-71.06498,02111
+Deaconess Hospital,hospitals,3,42.3381652832031,-71.1092758178711,02215
+Boston Clinical Trials,medcenters,3,42.2859992980957,-71.1269607543945,02131
+CHA Somerville Hospital Primary Care,medcenters,3,42.389965057373,-71.1095504760742,02143
+Beth Israel Deaconess HealthCare,familydr,3,42.2737095487723,-71.0697983709587,02124
+Southern Jamaica Plain Health Center,medcenters,3,42.31329,-71.11372,02130
+LeanMax Nutrition Center,medcenters,3,42.4153099,-71.0035019,02151
+CHA Everett Hospital,hospitals,3,42.409746,-71.03922,02149
+CHA East Cambridge Health Center,familydr,3,42.3730888366699,-71.0853271484375,02141
+AFC Urgent Care Dedham,urgent_care,3,42.25083,-71.17144,02026
+Lawrence Memorial Hospital,hospitals,3,42.4262974,-71.1111054,02155
+Massachusetts General Hospital,hospitals,3,42.3613449,-71.0682036,02114
+Brighton Marine Health Center,propertymgmt,3,42.348926,-71.142746,02135
+Spaulding Rehabilitation Hospital,hospitals,3,42.3747515188751,-71.1070803597246,02138
+The Dimock Center,medcenters,3,42.3195217,-71.0979144,02119
+Melrose-Wakefield Hospital,hospitals,3,42.459937082368,-71.060937646258,02176
+Beth Israel Deaconess Hospital-Milton,hospitals,3,42.253611,-71.076789,02186
+Malden Family Health Center,medcenters,3,42.42945,-71.08716,02148
+Mt Auburn Hospital,hospitals,3,42.36444,-71.13513,02134
+CHA Cambridge Family Health,familydr,3,42.3739795,-71.1008938,02139
+Whitehead Institute For Biomedical Research,medcenters,3,42.363285,-71.089388,02142
+Center for Infertility & Reproductive Surgery,medcenters,3,42.3360306,-71.1074882,02115
+Quincy - Harvard Vanguard,medcenters,3,42.251933,-71.003033,02169
+Upham's Corner Health Center,medcenters,3,42.31216,-71.0688952,02125
+Charles River Community Health,medcenters,3,42.362377166748,-71.1439437866211,02135
+Lemuel Shattuck Hospital,hospitals,3,42.3003757,-71.1073533,02130
+Massachusetts General Hospital,hospitals,3,42.3622949,-71.0683999,02114
+Chestnut Hill/West Roxbury - Harvard Vanguard,medcenters,3,42.295988,-71.159007,02467
+Brigham And Women's Hospital,hospitals,3,42.33711,-71.10226,02115
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445

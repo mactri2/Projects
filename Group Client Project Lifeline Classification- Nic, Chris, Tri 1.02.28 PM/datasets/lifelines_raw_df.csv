@@ -1,0 +1,1767 @@
+Business,Category,Lifeline,Latitude,Longitude,Zipcode
+Boston Police Department,policedepartments,1,42.3617983204601,-71.0602965278121,02114
+Harvard University Police Department,policedepartments,1,42.3699354188619,-71.1120128631592,02138
+Boston Police Headquarters,policedepartments,1,42.3340774445295,-71.0908846762968,02120
+Somerville Fire Department,firedepartments,1,42.3908571,-71.0910238,02145
+Cambridge Police Department,policedepartments,1,42.367259979248,-71.0861511230469,02141
+Boston Fire Department,firedepartments,1,42.3371238708496,-71.0960464477539,02115
+Somerville Police Department,policedepartments,1,42.3793392,-71.0924854,02143
+Somerville Fire Department,firedepartments,1,42.39187,-71.11072,02143
+East Boston Police Department,policedepartments,1,42.3712205886841,-71.0388281196356,02128
+Medford Police Department,policedepartments,1,42.4160194,-71.1103973,02155
+Transit Police,policedepartments,1,42.3314609594044,-71.0645722450439,02118
+Point of Pines Fire Station,firedepartments,1,42.4397519698324,-70.9683948666667,02151
+State Police Revere Barracks,policedepartments,1,42.4141454971757,-70.9896770545971,02151
+State Police Association of Massachusetts,policedepartments,1,42.35853,-71.06182,02108
+Dedham Police Department,policedepartments,1,42.2492031,-71.1721842,02026
+District E-18 - Hyde Park,policedepartments,1,42.25647,-71.1242199,02136
+Malden Police Department,policedepartments,1,42.4300145172923,-71.047582646804,02148
+Revere City of-Police Department,policedepartments,1,42.408108,-71.012678,02151
+MSPCA Angell,vet,2,42.323087,-71.111216,02130
+Animal Rescue League of Boston,animalshelters,2,42.3472206,-71.0700023,02116
+Greater Boston Food Bank,foodbanks,2,42.33423,-71.06566,02118
+Ellen M Gifford Cat Shelter,animalshelters,2,42.34165,-71.16762,02135
+Center for Arts at the Armory,venues,2,42.3897362,-71.1059052,02143
+Curley Community Center,communitycenters,2,42.3293751,-71.0354182,02127
+St Francis House,communitycenters,2,42.3524209987161,-71.0636105905768,02116
+Quincy Animal Shelter,animalshelters,2,42.2559079,-70.9942243,02169
+Harvard Ed Portal,communitycenters,2,42.3624038696289,-71.1312713623047,02134
+Black Cat Rescue,animalshelters,2,42.3919219970703,-71.089729309082,02145
+Second Chance Shelter for Cats,animalshelters,2,42.315055847168,-71.1152725219727,02130
+CultureHouse,communitycenters,2,42.363919,-71.0813643,02142
+Boston University Hillel,collegeuniv,2,42.35078,-71.10293,02215
+Kitty Connection,animalshelters,2,42.4230613708496,-71.1078262329102,02155
+Beacon Hill Friends House,communitycenters,2,42.35763,-71.06643,02108
+Animal Rescue League of Boston,animalshelters,2,42.2647902,-71.1846893,02026
+Paris Street Community Center and Pool,swimmingpools,2,42.372534678705,-71.0370890330599,02128
+Friends of the Shattuck Shelter,homelessshelters,2,42.2994228801864,-71.1027702240335,02130
+City of Boston Animal Control and Adoption Center,animalshelters,2,42.2942428588867,-71.1214065551758,02131
+New England Anti-Vivisection Society Neavs,animalshelters,2,42.35689,-71.05913,02108
+Milton Animal League,animalshelters,2,42.2441252,-71.0890956,02186
+Animal Umbrella,animalshelters,2,42.42792,-71.00832,02151
+Harborside Community Center,communitycenters,2,42.3776296569486,-71.0400559008121,02128
+Legacy Rescue,animalshelters,2,42.4204254150391,-71.1566619873047,02474
+Montserrat Aspirers,communitycenters,2,42.299029,-71.073153,02124
+Shultz's Guest House,petadoption,2,42.2486,-71.15509,02026
+Dedham Square,communitycenters,2,42.2467697,-71.1736348,02026
+Dedham Community House,communitycenters,2,42.2494814635127,-71.1767385716136,02026
+Massachusetts General Hospital,hospitals,3,42.363155,-71.068834,02114
+Brigham & Women's Hospital,hospitals,3,42.335929,-71.106716,02115
+Boston Children's Hospital,hospitals,3,42.3372730209928,-71.1059970977132,02115
+New England Baptist Hospital,hospitals,3,42.32919,-71.10626,02120
+Fenway Health,medcenters,3,42.3440775,-71.0989879,02215
+Beth Israel Deaconess Medical Center,hospitals,3,42.339749,-71.105063,02215
+Dana-Farber Cancer Institute,hospitals,3,42.3374895,-71.1081414,02215
+Planned Parenthood - Greater Boston Health Center,medcenters,3,42.3518047572808,-71.1203384399414,02215
+Copley - Harvard Vanguard,internalmed,3,42.347841,-71.076018,02116
+Massachusetts Eye and Ear,hospitals,3,42.36276,-71.07014,02114
+Tufts Medical Center,medcenters,3,42.349481,-71.063154,02111
+Post Office Square - Harvard Vanguard,medcenters,3,42.3572346,-71.054212,02109
+AFC Urgent Care Watertown,urgent_care,3,42.36391,-71.16545,02472
+St Elizabeth's Medical Center,medcenters,3,42.3495558,-71.148288,02135
+Kenmore - Harvard Vanguard,medcenters,3,42.34545,-71.10057,02215
+Sidney Borum Junior Health Center,medcenters,3,42.3502516,-71.0605958,02205
+Crosstown Center Garage,medcenters,3,42.3324062012579,-71.0738137729385,02119
+Boston Obstetrics & Gynecology,medcenters,3,42.3321479,-71.1155506,02445
+Cambridge - Harvard Vanguard,medcenters,3,42.37486,-71.1083,02138
+North End Waterfront Health Center,medcenters,3,42.3647004,-71.0537366,02113
+Mount Auburn Hospital Walk-In Clinic,medcenters,3,42.374114,-71.134291,02138
+Partners Urgent Care,urgent_care,3,42.3511543543907,-71.0658491409048,02116
+South End Community Health Center,medcenters,3,42.3382999,-71.07492,02118
+South Boston Community Health Center,medcenters,3,42.33671,-71.0482,02127
+CHA Cambridge Hospital,hospitals,3,42.37442,-71.10444,02139
+Project Trust,medcenters,3,42.3337018489838,-71.0738255828619,02118
+Mgh Dental Group,generaldentistry,3,42.362738,-71.068288,02114
+Children's Hospital Boston Blood Donor Center,hospitals,3,42.338498,-71.1054,02115
+Watertown - Harvard Vanguard,medcenters,3,42.362475,-71.160994,02472
+Franciscan Children's,hospitals,3,42.350167,-71.143396,02135
+Mount Auburn Hospital,hospitals,3,42.374134,-71.134408,02138
+CHA Cambridge Birth Center,hospitals,3,42.37442,-71.10444,02139
+CareWell Urgent Care Centers,urgent_care,3,42.373627,-71.101184,02138
+Beth Israel Deaconess HealthCare-Boston,medcenters,3,42.3571144,-71.0584075,02108
+MGH Medical Walk-In Unit,physicians,3,42.3625,-71.06825,02114
+CHA Cambridge Family Health North,medcenters,3,42.3918266296387,-71.1227035522461,02140
+East Boston Neighborhood Health Center,urgent_care,3,42.37233,-71.03831,02128
+Mgh Avon Breast Center,medcenters,3,42.362545,-71.0693665,02114
+Harvard University Health Services,collegeuniv,3,42.372236,-71.118665,02138
+Floating Hospital For Children,hospitals,3,42.3501855,-71.0635904,02111
+US Gov't VAMC West Roxbury,hospitals,3,42.2759174,-71.1723875,02132
+Boston STD Clinic,medcenters,3,42.3331427,-71.0731756,02118
+St Elizabeth's Health Care,medcenters,3,42.348622,-71.148138,02135
+Shriners Hospitals for Children,hospitals,3,42.36305,-71.06644,02114
+Beth Israel Deaconess Urgent Care at Chelsea,emergencymedicine,3,42.40277,-71.02011,02150
+CHA Somerville Hospital,hospitals,3,42.3904817,-71.1088964,02143
+Brigham and Women's Faulkner Hospital,hospitals,3,42.3003492,-71.1278672,02130
+Joslin Diabetes Center,medcenters,3,42.3386585712433,-71.1089638620615,02215
+Somerville - Harvard Vanguard,medcenters,3,42.39743,-71.12372,02144
+AFC Urgent Care Arlington,medcenters,3,42.42424,-71.1853299,02476
+MIT Medical,medcenters,3,42.361309,-71.0866,02139
+Women's Health Services,medcenters,3,42.3369203,-71.1213142,02446
+Hospitality Homes,hospitals,3,42.3484839660172,-71.0971697267334,02215
+CHA Windsor Street Care Center,hospitals,3,42.36464,-71.09681,02139
+BIDMC Washington Square Group,medcenters,3,42.3387699,-71.13227,02446
+Whittier Street  Health Center,medcenters,3,42.3327661,-71.0919855,02120
+Boston University Cosmetic and Laser Center,dermatology,3,42.350914,-71.117856,02215
+Codman Square Health Center,medcenters,3,42.289374,-71.071333,02124
+Women's Health Group at Boston Medical Center,physicians,3,42.33797,-71.07111,02118
+MGH Beacon Hill Primary Care Associates,hospitals,3,42.36139,-71.06509,02114
+Medford - Harvard Vanguard,medcenters,3,42.418309,-71.107023,02155
+Beth Israel Deaconess Medical Center - Emergency Department,emergencymedicine,3,42.3382712269384,-71.1090408876167,02115
+Boston IVF - Brookline,fertility,3,42.332533,-71.11505,02445
+Tufts Community Care,familydr,3,42.39934,-71.10993,02145
+Massachusetts General Hospital Yawkey Outpatient Care Center,oncologist,3,42.3615440978747,-71.0698056221008,02114
+Hoffman Breast Center - Mount Auburn Hospital,hospitals,3,42.3741130731504,-71.1342135071754,02139
+Mass General Medical Group,medcenters,3,42.36252,-71.06434,02114
+Carney Hospital,hospitals,3,42.277399,-71.065257,02124
+Cambridge Health Alliance,physicians,3,42.37442,-71.10444,02139
+Partners Urgent Care,urgent_care,3,42.387221,-71.118536,01801
+Blue Hill Adult Day Health Center,medcenters,3,42.29036,-71.08981,02124
+South Cove Community Health Center,medcenters,3,42.34799,-71.06498,02111
+Deaconess Hospital,hospitals,3,42.3381652832031,-71.1092758178711,02215
+Boston Clinical Trials,medcenters,3,42.2859992980957,-71.1269607543945,02131
+CHA Somerville Hospital Primary Care,medcenters,3,42.389965057373,-71.1095504760742,02143
+Beth Israel Deaconess HealthCare,familydr,3,42.2737095487723,-71.0697983709587,02124
+Southern Jamaica Plain Health Center,medcenters,3,42.31329,-71.11372,02130
+LeanMax Nutrition Center,medcenters,3,42.4153099,-71.0035019,02151
+CHA Everett Hospital,hospitals,3,42.409746,-71.03922,02149
+CHA East Cambridge Health Center,familydr,3,42.3730888366699,-71.0853271484375,02141
+AFC Urgent Care Dedham,urgent_care,3,42.25083,-71.17144,02026
+Lawrence Memorial Hospital,hospitals,3,42.4262974,-71.1111054,02155
+Massachusetts General Hospital,hospitals,3,42.3613449,-71.0682036,02114
+Brighton Marine Health Center,propertymgmt,3,42.348926,-71.142746,02135
+Spaulding Rehabilitation Hospital,hospitals,3,42.3747515188751,-71.1070803597246,02138
+The Dimock Center,medcenters,3,42.3195217,-71.0979144,02119
+Melrose-Wakefield Hospital,hospitals,3,42.459937082368,-71.060937646258,02176
+Beth Israel Deaconess Hospital-Milton,hospitals,3,42.253611,-71.076789,02186
+Malden Family Health Center,medcenters,3,42.42945,-71.08716,02148
+Mt Auburn Hospital,hospitals,3,42.36444,-71.13513,02134
+CHA Cambridge Family Health,familydr,3,42.3739795,-71.1008938,02139
+Whitehead Institute For Biomedical Research,medcenters,3,42.363285,-71.089388,02142
+Center for Infertility & Reproductive Surgery,medcenters,3,42.3360306,-71.1074882,02115
+Quincy - Harvard Vanguard,medcenters,3,42.251933,-71.003033,02169
+Upham's Corner Health Center,medcenters,3,42.31216,-71.0688952,02125
+Charles River Community Health,medcenters,3,42.362377166748,-71.1439437866211,02135
+Lemuel Shattuck Hospital,hospitals,3,42.3003757,-71.1073533,02130
+Massachusetts General Hospital,hospitals,3,42.3622949,-71.0683999,02114
+Chestnut Hill/West Roxbury - Harvard Vanguard,medcenters,3,42.295988,-71.159007,02467
+Brigham And Women's Hospital,hospitals,3,42.33711,-71.10226,02115
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Shields Mri Boston,hospitals,3,42.27823,-71.05425,02124
+Massachusetts General Hospital,hospitals,3,42.3625945,-71.0640236,02114
+Osher Clinical Center,medcenters,3,42.326077,-71.149763,02467
+Longwood Medical Eye Center,optometrists,3,42.33979,-71.10488,02215
+CHA Malden Family Medicine Center,medcenters,3,42.4201584,-71.0728836,02148
+MinuteClinic,walkinclinics,3,42.4191,-71.1123,02155
+MGH Charlestown Healthcare Center,medcenters,3,42.3772,-71.06425,02129
+East Boston Neighborhood Health Center,hospitals,3,42.3714638,-71.0384216,02128
+Men's Health Boston,medcenters,3,42.31888,-71.175145,02467
+Mgh Chelsea Healthcare Center,hospitals,3,42.39427,-71.03946,02150
+MinuteClinic,walkinclinics,3,42.39,-71.1436,02138
+Geiger-Gibson Community Health Center,medcenters,3,42.3192735761404,-71.0462243109941,02125
+Beth Israel Deaconess Medical Center,medcenters,3,42.3324314554658,-71.114673997478,02445
+Coolidge Corner Imaging,medcenters,3,42.34395,-71.1249,02446
+North Charles Mental Health Clinic,medcenters,3,42.3662185668945,-71.1038131713867,02139
+CHA Broadway Health Center,familydr,3,42.3920901864767,-71.0926117748022,02145
+Nopco,medcenters,3,42.3385717,-71.1078369,02215
+Genzyme Corporation,medcenters,3,42.3665695,-71.0901871,02139
+Lahey Hospital,hospitals,3,42.4080236,-71.1359641,01913
+Brigham and Women's OB Gyn Department,familydr,3,42.326082,-71.149762,02467
+MinuteClinic,walkinclinics,3,42.3889,-71.1189,02140
+Health Express,urgent_care,3,42.2464701,-71.0030449,02169
+Brigham and Women's At Newton Corner,medcenters,3,42.3587664216757,-71.1849890649319,02458
+Brigham and Women's Hospital,hospitals,3,42.3382679627159,-71.1055792375144,02115
+VA Hospital,medcenters,3,42.326987,-71.110637,02130
+Boston University Cosmetic & Laser Center,dermatology,3,42.334962,-71.072232,02118
+Quincy - Granite Medical,medcenters,3,42.23425,-71.01733,02169
+Atrius Health,hospitals,3,42.3457764,-71.10141,02215
+Your Options Medical Centers,medcenters,3,42.40491,-71.01613,02151
+Beth Israel Deaconess HealthCare - Jamaica Plain,medcenters,3,42.3168453,-71.113694,02130
+Partners Urgent Care,urgent_care,3,42.439835,-71.13336,02155
+Beth Israel Deaconess Healthcare Medical Care Center North,familydr,3,42.39376,-71.03237,02150
+Brigham Women Hosp,hospitals,3,42.35056,-71.11621,02215
+Podiatry Dept. Mass General Hospital,hospitals,3,42.3622666,-71.0694056,02114
+South Cove Community Health Center,medcenters,3,42.35085,-71.0575,02111
+Harvard Pilgrim Healthcare,medcenters,3,42.346395,-71.099289,02215
+Beth Israel Deaconess Medical Centre,medcenters,3,42.3445777893066,-71.1110534667969,02446
+Department of Otolaryngology Boston Medical Center,physicians,3,42.33533,-71.07438,02118
+NEW Health Charlestown,medcenters,3,42.3776333,-71.0567843,02129
+Orthopedic Surgery Department at Boston Medical Center,medcenters,3,42.3348727,-71.0721548,02118
+New England Baptist Spine Center,physicaltherapy,3,42.32594,-71.14849,02445
+"Michael B Tantillo, MD",cosmeticsurgeons,3,42.3660821,-71.1847313,02445
+Hallmark Health System,hospitals,3,42.45998,-71.06123,02176
+Brigham and Women's Primary Care,hospitals,3,42.3442017,-71.1148511,02445
+Daniel Driscoll - Neponset Health Center,medcenters,3,42.28655,-71.04398,02122
+Professional Ambulance - Pro EMS,medicaltransportation,3,42.391218,-71.1509749,02138
+Beth Israel Deconess Medical Center - Pigmented Leison Clinic,medcenters,3,42.339726,-71.104888,02215
+Compass Medical Quincy,medcenters,3,42.2431944,-71.0259705,02169
+Mount Auburn Hospital Occupational Health,hospitals,3,42.3904799,-71.15222,02138
+Bournewood Hospital,hospitals,3,42.2982902526855,-71.1494598388672,02445
+Columbia Road Gulf Service,servicestations,4,42.320594,-71.0564857,02125
+Magazine Beach Shell Service,autorepair,4,42.356675,-71.114257,02139
+Nick's Auto Service and Repair,autorepair,4,42.407815,-71.109323,02155
+Foreign & Domestic Auto Service,servicestations,4,42.4111061096191,-71.1206283569336,02155
+A-Z Auto Center Gas,servicestations,4,42.3444366455078,-71.1417999267578,02135
+Jack's Gas & Service,servicestations,4,42.41439,-71.11086,02155
+Comm Ave Mobil - Auto Repair Service Shop,servicestations,4,42.3505837026929,-71.1135256290436,02215
+Trum Field Sunoco,servicestations,4,42.39799,-71.10634,02145
+Watertown Mutual,autorepair,4,42.3709745,-71.1580735,02472
+Eli's Service Station,servicestations,4,42.41066,-71.14085,02474
+Lightning Lube,servicestations,4,42.400493,-71.041458,02150
+Reggie's Service,servicestations,4,42.3905021,-71.0396192,02150
+J D Auto Center,servicestations,4,42.3070793151855,-71.1470947265625,02467
+Titan Gas,servicestations,4,42.4027113,-71.1135212,02155
+Centre St Gibbs,servicestations,4,42.3155989708625,-71.1141226930266,02130
+Cumberland Farms,servicestations,4,42.3858626942836,-71.1138776624877,02143
+Jack's Gas,servicestations,4,42.40005,-71.13343,02140
+John’s Gas,servicestations,4,42.2912348,-71.0471995,02122
+JP Auto Repair,autorepair,4,42.32085,-71.11089,02130
+Nicks Service Station,servicestations,4,42.37555,-71.145624,02138
+P & M Service Center,servicestations,4,42.3913841247559,-71.1611633300781,02478
+Pearl Street Auto Sales,servicestations,4,42.3865378,-71.0910065,02145
+Benway Oil Company,hvac,4,42.221896,-71.0758457,02186
+Al & Sons Service Station,servicestations,4,42.420487,-71.141776,02155
+Greg's Service Center,autorepair,4,42.3894066,-71.0385997,02150
+Jo-Lan Automotive,servicestations,4,42.29356,-71.13668,02131
+Marina Bay Boston,marinas,4,42.30007,-71.02777,02171
+Shell Gasoline,servicestations,4,42.3455374981946,-71.0949942399697,02215
+Audy's Mobil,autorepair,4,42.33041,-71.12569,02445
+Pine Banks Automotive Center,servicestations,4,42.4398765563965,-71.0677185058594,02148
+Arlington Global,autorepair,4,42.410539,-71.1479886,02474
+Townline Auto Repair Shop,autorepair,4,42.4610855713109,-70.9885273128748,01905
+A & E Serv Sta,servicestations,4,42.38267,-71.13103,02138
+7-Eleven,convenience,4,42.3590632,-71.0550538,02109
+Junior's Automotive,servicestations,4,42.38399,-71.11911,02138
+Fresh Pond Gas,autorepair,4,42.38645,-71.14065,02138
+Egan's Sunoco Gas,servicestations,4,42.25597,-71.03177,02169
+Mass Ave BP,servicestations,4,42.409408,-71.146369,02474
+Memorial Drive Mobil,servicestations,4,42.3612899,-71.11544,02139
+Steinbach's Service Station Inc,servicestations,4,42.29833,-71.05754,02122
+Centre St Auto Repair,servicestations,4,42.242881152369,-71.0221431031823,02169
+Hess Gas Station,servicestations,4,42.3345756530762,-71.0553512573242,02127
+Mt Auburn Mobil,servicestations,4,42.3721237182617,-71.1572723388672,02472
+Parkway Gas and Service,autorepair,4,42.2937299,-71.16257,02132
+Belmont St Auto Clinic,servicestations,4,42.3759093,-71.1580472,02472
+A L Prime Energy,servicestations,4,42.26939,-71.01861,02170
+Emporium Gas Carwash & Express Lube,servicestations,4,42.29597,-71.11841,02131
+Fellsway Gas and Service,servicestations,4,42.4255799,-71.09733,02155
+Dror's Village Shell,servicestations,4,42.2953,-71.154808,02132
+East Coast Gas,servicestations,4,42.3639488220215,-71.1664199829102,02472
+Mattapan Square Mobil,servicestations,4,42.27057,-71.09327,02126
+Richie's Shell Service Station,servicestations,4,42.37301,-71.09357,02141
+Good Gas of Somerville,autorepair,4,42.388626113534,-71.0965646803379,02145
+Dalton's Gulf Service,autorepair,4,42.4212875366211,-71.0864334106445,02148
+Speedway,servicestations,4,42.37259,-71.09907,02139
+Somerville Gas,servicestations,4,42.3846740722656,-71.1005325317383,02143
+Speedway,servicestations,4,42.3824,-71.07989,02129
+Superior Gas,servicestations,4,42.4347915649414,-71.0459060668945,02148
+Shell Gas Station,servicestations,4,42.3402938842773,-71.0817718505859,02118
+West Broadway Gulf,servicestations,4,42.34153,-71.05548,02127
+S & D Oil Co,utilities,4,42.47923,-71.15061,01801
+Stop N Gas,servicestations,4,42.27915,-71.06943,02124
+Speedway,servicestations,4,42.3525071607117,-71.1298661618141,02134
+Pezzi Service Ctr,servicestations,4,42.4098510742188,-71.0298461914062,02150
+Mobil,servicestations,4,42.33198,-71.07076,02118
+Fred's Auto Service,servicestations,4,42.4017486572266,-71.0982818603516,02155
+7-Eleven,convenience,4,42.3484755436913,-71.0963259637356,02215
+Mystic Street Gulf,servicestations,4,42.4197578430176,-71.1526184082031,02474
+Centre Street Automotive,autorepair,4,42.29261,-71.13784,02131
+Irving,servicestations,4,42.361541,-71.143951,02135
+Somerville Gas and Service,servicestations,4,42.37382,-71.08798,02143
+Oak Sq Sunoco Service Station,servicestations,4,42.35032,-71.16742,02135
+A L Prime Energy,servicestations,4,42.2649040539285,-71.1209124326706,02136
+Fresh Pond Mobil,autorepair,4,42.38537,-71.14088,02138
+Prendergast Oil & Energy,hvac,4,42.36691,-71.18501,02472
+Cumberland Farms,convenience,4,42.34202,-71.15387,02135
+Broadway Gulf,servicestations,4,42.389328,-71.088277,02145
+Shell,servicestations,4,42.2632293701172,-71.0126495361328,02170
+BJ's Gas,servicestations,4,42.239482,-71.006113,02169
+Sunoco,servicestations,4,42.257941,-71.178759,02026
+Broadway Sunoco,servicestations,4,42.39064,-71.09072,02145
+Daily Gas,servicestations,4,42.4285850524902,-71.1283493041992,02155
+Lenny's Service Center,autorepair,4,42.39258,-71.18228,02478
+JP Oil,servicestations,4,42.317352,-71.113434,02130
+Cushing Sq Serv Sta,servicestations,4,42.3801803588867,-71.1744766235352,02478
+Sunoco,servicestations,4,42.3079352080822,-71.0583049803972,02122
+Howie's Oil,utilities,4,42.38993,-71.03147,02150
+Speedway,servicestations,4,42.3582300175151,-71.126260086894,02134
+Mass Ave Sunoco Mart,servicestations,4,42.33142,-71.07132,02118
+Fazio Mobil,servicestations,4,42.37959,-71.02785,02128
+Dedham Exxon,servicestations,4,42.24659,-71.1745,02026
+Broco Oil,homeappliancerepair,4,42.5678681947193,-71.1088780689574,01864
+Arlington Shell Auto Care,servicestations,4,42.4182739,-71.166163,02476
+Lucey's Service Station,autorepair,4,42.4648357182741,-71.0616349428892,02176
+Gaeta Shell & Towing,towing,4,42.522213,-70.9974872,01960
+Pleasant Street Shell,servicestations,4,42.4040899,-71.16671,02478
+East Boston Shell,servicestations,4,42.37155,-71.03931,02128
+Chico's Towing Service,servicestations,4,42.38773,-71.14178,02138
+Speedway,servicestations,4,42.39127,-71.12228,02140
+Hatoff's,servicestations,4,42.30747,-71.10617,02130
+Manar USA,servicestations,4,42.287187,-71.0240579,02171
+Parkway Mobil,servicestations,4,42.243782043457,-71.0254745483398,02169
+Speedway,servicestations,4,42.3345756530762,-71.0553512573242,02127
+Ell-Bern Self-Serv Gas,servicestations,4,42.34029,-71.08177,02118
+Dana's Auto Repair,servicestations,4,42.2574661,-71.011663,02170
+Shell,servicestations,4,42.29526,-71.15476,02132
+Power Plus,autorepair,4,42.3852669461913,-71.1834777279785,02478
+Broadway Citgo,servicestations,4,42.4119227429245,-71.0108195951065,02151
+Gulf Gas Station,servicestations,4,42.4147071838379,-71.1387176513672,02474
+Fresh Pond Shell,autorepair,4,42.38896,-71.14451,02138
+Blue Hill Gas & Auto,servicestations,4,42.2383238,-71.0280661,02169
+Speedway,servicestations,4,42.2778212847587,-71.0303982719779,02171
+7-Eleven,convenience,4,42.2963905,-71.0476039,02122
+Monsignor O'brien Highway Shell,servicestations,4,42.3735179,-71.0811015,02141
+King Petroleum,servicestations,4,42.4207518465766,-71.0987144708633,02155
+National Grid,utilities,4,42.41714,-71.07244,02148
+A L Prime Energy,servicestations,4,42.4005820602179,-71.1042176932096,02155
+Morrissey Boulevard Shell,servicestations,4,42.30025,-71.0499,02122
+Speedway,servicestations,4,42.39053,-71.08682,02145
+Stop 'n' Fuel,servicestations,4,42.385368,-71.009819,02128
+A L Prime Energy,servicestations,4,42.40346,-71.00893,02151
+Murley's Car Care Center,autorepair,4,42.2298314864555,-70.9436553343933,02189
+Sunoco,servicestations,4,42.4024553925524,-71.0502684543582,02149
+Mobil 1 Oil Change,servicestations,4,42.257556,-71.16114,02132
+Alfa Auto Fuel,servicestations,4,42.2892269,-71.1255709,02131
+BP Gas,servicestations,4,42.3790485692534,-71.0274176672101,02128
+Harvard Street Mobil,servicestations,4,42.33955,-71.12132,02446
+Mass Ave Sunoco,autorepair,4,42.42209,-71.17338,02476
+Gulf Gas Station,servicestations,4,42.389333,-71.088211,02143
+Mutual Gas Station,servicestations,4,42.33353,-71.10348,02120
+Hess Express,servicestations,4,42.431072,-71.023277,02151
+City Square Shell Service Station,servicestations,4,42.3718698962724,-71.0631675250271,02129
+McGinn's Citgo Service,servicestations,4,42.2574661,-71.011663,02170
+Mr C's Truck Stop,servicestations,4,42.4011052,-71.0973898,02155
+AL Prime,servicestations,4,42.282429,-71.055992,02124
+Shimons service station,servicestations,4,42.34639,-71.12778,02446
+Eastland Motor Service,servicestations,4,42.26821,-71.15004,02132
+Brown Automotive,autorepair,4,42.4217941,-71.1728237,02476
+Tiger Auto Service,servicestations,4,42.4300956726074,-71.0458908081055,02148
+BJ's Gas,servicestations,4,42.423237,-71.003962,02151
+J and T Mobil,servicestations,4,42.3429,-71.06321,02118
+Alex's Auto Repair,servicestations,4,42.4135284423828,-71.1094207763672,02155
+Stop & Shop Gas,servicestations,4,42.33725,-71.12117,02446
+Speedway,servicestations,4,42.287737,-71.151652,02132
+Shell,autorepair,4,42.2840599,-71.05587,02122
+Broadway Gulf,servicestations,4,42.4118440380803,-71.0110653703704,02151
+Sunoco Aplus Express,servicestations,4,42.3193044215441,-71.181410998106,02459
+Stop & Shop Gasoline,servicestations,4,42.2543463170058,-70.996737999324,02169
+Al Prime Energy,servicestations,4,42.4078330993652,-71.1092910766602,02155
+Jamie Oil Company,hvac,4,42.2597198,-71.4644332,01721
+Concord Auto Service,servicestations,4,42.3846740722656,-71.1005325317383,02143
+Stop & Shop Gas,servicestations,4,42.258345012589,-71.1695044063132,02026
+Rudys Express,servicestations,4,42.2466239929199,-71.172492980957,02026
+Exxon Tiger Mart,servicestations,4,42.343238502856,-71.102134045492,02215
+Centre Arco Service,servicestations,4,42.4216399,-71.13263,02155
+Ferry Street Service Station,autorepair,4,42.4181801,-71.0511466,02149
+Northgate Mobil,servicestations,4,42.42744,-71.01473,02151
+Star K,servicestations,4,42.4032707214355,-71.1672897338867,02478
+Water Street Petroleum,servicestations,4,42.2419071,-71.0136588,02169
+Mobil,servicestations,4,42.426857,-71.014198,02151
+Route 99 Gas & Service,servicestations,4,42.4240570068359,-71.0428237915039,02148
+BP,servicestations,4,42.2870483,-71.1504517,02132
+Galen Street Service Station,servicestations,4,42.3615112,-71.185379,02472
+Stop & Shop Gas,servicestations,4,42.3261756896973,-71.0651321411133,02125
+Sunoco,servicestations,4,42.3397102,-71.1600037,02135
+Citgo Express Mart,servicestations,4,42.4037231201592,-71.0588864101077,02149
+Shell,servicestations,4,42.2313909977674,-71.1599003523588,02026
+Speedway,servicestations,4,42.2590294,-71.1786652,02026
+Mv Petroleum,servicestations,4,42.33926,-71.08111,02118
+AL Prime Energy Gas Station,servicestations,4,42.26711,-71.01515,02269
+Tom's East Side Gulf,autorepair,4,42.45917,-71.046,02176
+Circle K,servicestations,4,42.452919,-71.0669479,02176
+Hess,servicestations,4,42.45558,-71.15913,01890
+Brite Fuel,servicestations,4,42.2554890658754,-71.1265334275311,02136
+Concord Ave Mobil Service,servicestations,4,42.39517,-71.17225,02478
+Sunoco,convenience,4,42.401323,-70.99729,02151
+Auto Tech Pro,servicestations,4,42.40576,-71.06238,02149
+Energy North Stores,servicestations,4,42.38285,-70.97926,02152
+Super Petroleum,servicestations,4,42.2658081,-70.9644699,02169
+Keohan Fuels & Transportation,waterheaterinstallrepair,4,42.4519996643066,-71.0614929199219,02176
+Shell,servicestations,4,42.3729549890958,-71.09351,02141
+Angelo's Oil,servicestations,4,42.45026,-71.00391,01906
+Gulf,servicestations,4,42.38285,-70.97926,02152
+Sunoco,servicestations,4,42.42413,-71.08924,02155
+Busa Fuel Company,servicestations,4,42.365364,-71.15522,02472
+Arlington Gulf,autorepair,4,42.414707,-71.138718,02474
+Egleston Square Citgo,servicestations,4,42.31645,-71.09799,02119
+Roger's Services,servicestations,4,42.23695,-71.13179,02136
+Speedway,servicestations,4,42.36483,-71.18138,02472
+US Gas,servicestations,4,42.254941,-71.0295004,02169
+Mobil,servicestations,4,42.3829363584222,-71.0396482050419,02128
+BP,servicestations,4,42.36151,-71.18538,02472
+Best of Boston,tires,4,42.28347,-71.13105,02131
+Ambit Energy,utilities,4,42.381172,-71.040306,02128
+Speedway,servicestations,4,42.39608,-71.00901,02151
+Ken's Car Care,servicestations,4,42.4507822841406,-70.9832400083542,01906
+Cypress Automart,servicestations,4,42.33955,-71.12132,02446
+John's,servicestations,4,42.4321145173871,-71.0244773697875,02148
+Stop N Save,servicestations,4,42.38873,-71.09718,02145
+Think Energy,utilities,4,42.3722,-71.06105,02129
+WERS 88.9FM,radiostations,5,42.352707,-71.064118,02108
+WBUR 90.9 FM,radiostations,5,42.350547,-71.1155277,02215
+The David Pakman Show,radiostations,5,42.31001,-71.11348,02130
+WMBR 88.1 FM,radiostations,5,42.3591755,-71.087723,02142
+Weekly Dig,printmedia,5,42.34347,-71.0635,02118
+WGBH,radiostations,5,42.3563,-71.14867,02135
+WJIB Radio 740,radiostations,5,42.38622,-71.13886,02138
+The Boston Phoenix,printmedia,5,42.3453446477652,-71.1004069447517,02215
+WBCN 104 FM,radiostations,5,42.35831,-71.15361,02215
+94.9FM ZUMIX,radiostations,5,42.36825,-71.03768,02128
+T-Mobile,mobilephones,5,42.351102,-71.076097,02116
+T-Mobile,mobilephones,5,42.3521377680516,-71.0578697919846,02111
+T-Mobile,mobilephones,5,42.3741914412557,-71.0860406103203,02143
+New England Sports Network,televisionstations,5,42.347193,-71.09831,02215
+WZBC 90.3 FM,radiostations,5,42.3317686,-71.1598742,02467
+Boston Metro Publishing,printmedia,5,42.35141,-71.04958,02210
+Mix 104.1 - WWBX-FM,radiostations,5,42.3592,-71.14823,02135
+The Boston Globe,printmedia,5,42.3584887102056,-71.056541970639,02109
+Improper Bostonian,printmedia,5,42.3487049,-71.0719859,02116
+WBZ Newsradio 1030,radiostations,5,42.36508,-71.1342,02134
+The Christian Science Monitor,printmedia,5,42.3449324,-71.0825621,02115
+WBQT - Hot 96.9,radiostations,5,42.31751,-71.05028,02125
+Cambridge Community Television,televisionstations,5,42.3635314,-71.1008248,02139
+Spare Change News,printmedia,5,42.3716871644853,-71.1143088340759,02138
+WBOS 92.9 FM,radiostations,5,42.317772,-71.050181,02125
+Asian American Civic Association,printmedia,5,42.34895,-71.06168,02111
+T-Mobile,mobilephones,5,42.3425858033639,-71.1208375,02446
+WHDH-TV,televisionstations,5,42.362056,-71.061755,02114
+T-Mobile,mobilephones,5,42.374276,-71.119115,02138
+T-Mobile,mobilephones,5,42.389313,-71.143341,02138
+Stuff Boston Magazine,printmedia,5,42.3453446477652,-71.1004069447517,02215
+Magic 106.7 Wmjx-Fm,radiostations,5,42.317768,-71.050242,02125
+WZLX-Fm Classic Rock,radiostations,5,42.405431,-71.074978,02155
+Boston Herald,printmedia,5,42.344918,-71.0417973,02210
+T-Mobile,mobilephones,5,42.368025,-71.076303,02141
+T-Mobile,mobilephones,5,42.4040787,-71.0800517,02155
+Kiss 108 Radio,radiostations,5,42.40541,-71.07455,02155
+World Journal-Chinese Daily,printmedia,5,42.3504088,-71.0585365,02111
+Boston Magazine,printmedia,5,42.3430373,-71.0850205,02115
+In Newsweekly,printmedia,5,42.34401,-71.07104,02116
+T-Mobile,mobilephones,5,42.3430725,-71.0664811,02118
+Boston City Paper,printmedia,5,42.3566818237305,-71.0654220581055,02108
+Bay Windows,printmedia,5,42.33888,-71.06774,02118
+WUNR 1600 AM,radiostations,5,42.3551642149687,-71.0618729889393,02111
+WHRB 95.3 FM,radiostations,5,42.37215,-71.11365,02138
+WROR 105.7 Fm,radiostations,5,42.317785,-71.050134,02125
+WRBB 104.9FM,radiostations,5,42.3391198662888,-71.0874311306914,02115
+Radio BDC,radiostations,5,42.3513412,-71.04953,02210
+T-Mobile,mobilephones,5,42.328235,-71.060028,02125
+JAM'N 94.5,radiostations,5,42.40541,-71.07455,02155
+98.5 The Sports Hub,radiostations,5,42.3592071533203,-71.1482391357422,02135
+WEEI AM 850 Sports Radio,radiostations,5,42.3574905,-71.1477585,02135
+WUMB Radio 91.9 FM,radiostations,5,42.313342,-71.039674,02125
+103.3 AMP Radio,radiostations,5,42.3592,-71.14823,02135
+Bar Stool Sports,printmedia,5,42.3566818237305,-71.0654220581055,02108
+WKLB Country 99.5 FM,radiostations,5,42.31778,-71.050205,02125
+America's Test Kitchen,printmedia,5,42.3326972682512,-71.1174972634869,02445
+T-Mobile,mobilephones,5,42.3579413529044,-71.058145,02108
+T-Mobile,mobilephones,5,42.346936,-71.088202,02215
+Metro by T-Mobile,mobilephones,5,42.36452,-71.10306,02139
+Boston Common Press,printmedia,5,42.3325876,-71.1177257,02447
+T-Mobile,mobilephones,5,42.2524809757273,-71.0046963164496,02169
+Grasshopper,telecommunications,5,42.35341,-71.13217,02134
+T-Mobile,mobilephones,5,42.348704,-71.158957,02135
+WMFO,radiostations,5,42.409386,-71.118573,02155
+Edible Boston,printmedia,5,42.33311,-71.11954,02445
+New England Ethnic Newswire,printmedia,5,42.315826,-71.048004,02228
+Xm Satel Radio,radiostations,5,42.36315,-71.0643,02114
+Wrko Am 680,radiostations,5,42.3574905,-71.1477585,02135
+BostonNOW,printmedia,5,42.3558568954468,-71.0615041851997,02108
+T-Mobile,mobilephones,5,42.3170734,-71.0564643,02125
+Somerville Community Access Television,televisionstations,5,42.379492521286,-71.0950371623039,02143
+Center for New Words,printmedia,5,42.3667,-71.10431,02139
+Cheng & Tsui,printmedia,5,42.3548545837402,-71.0623626708984,02111
+Wbz Tv 4,radiostations,5,42.35341,-71.13217,02134
+Waaf,radiostations,5,42.3574905,-71.1477585,02135
+T-Mobile,mobilephones,5,42.409769,-71.001075,02151
+Boink! Magazine,printmedia,5,42.3486518859863,-71.085090637207,02139
+Evolution 101.7 FM,radiostations,5,42.4065151065588,-71.0763133317232,02155
+T-Mobile,mobilephones,5,42.2996207,-71.0605553537607,02122
+Russian Radio Network,radiostations,5,42.35549,-71.13072,02134
+American Police Beat,printmedia,5,42.37328,-71.12147,02138
+T-Mobile,mobilephones,5,42.3302645981312,-71.0830879211426,02119
+Boston Airport Journal,printmedia,5,42.3641499671982,-71.0327681180428,02128
+Jamaica Plain Gazette,printmedia,5,42.310688,-71.11383,02130
+Radio Disney Am 1260,radiostations,5,42.35781,-71.13655,02134
+Senior Citizens Publishing,printmedia,5,42.34712,-71.14154,02135
+"MMTV - Melrose Massachusetts Television, Inc.",televisionstations,5,42.45257,-71.06721,02176
+JJ Miller,videofilmproductions,5,42.400281,-71.02066,02150
+The Bay State Banner,printmedia,5,42.273887,-71.06976,02124
+Revere Journal,printmedia,5,42.4099731445312,-71.0118560791016,02151
+T-Mobile,mobilephones,5,42.323389,-71.103479,02130
+AMP 103.3 FM,radiostations,5,42.3592071533203,-71.1482391357422,02135
+Granite Telecommunications,telecommunications,5,42.2782,-71.03403,02171
+The Advocate Newspapers,printmedia,5,42.410636,-71.051868,02149
+DJ Stevie Ray,radiostations,5,42.4191055297852,-71.0039749145508,02151
+The Boston Globe,printmedia,5,42.35794,-71.05626,02109
+Boston Courant,printmedia,5,42.35139,-71.07677,02116
+Wellington News Co,printmedia,5,42.3475456237793,-71.1020126342773,02215
+Wxks Kiss-108 Request & Contest Line,radiostations,5,42.3566818237305,-71.0654220581055,02108
+Exhibit A,printmedia,5,42.35499,-71.06262,02111
+Consumers Checkbook Magazine,printmedia,5,42.35562,-71.05542,02110
+Allston-Brighton Free Radio,radiostations,5,42.3544464111328,-71.1360015869141,02134
+T-Mobile,mobilephones,5,42.2323860844628,-71.1786796099113,02026
+T-Mobile,mobilephones,5,42.3941799650653,-71.0422061896532,02150
+The Somerville Times,printmedia,5,42.3998410999775,-71.111845895648,02144
+Verizon Authorized Retailer - Cellular Sales,mobilephones,5,42.42277,-71.00714,02151
+Wbos 92.9 Fm,radiostations,5,42.3061141967773,-71.0856170654297,02121
+Street Talk,telecommunications,5,42.3673371859767,-71.0764588681243,02141
+Comcast Service Center,televisionserviceproviders,5,42.3149377,-71.0786348,02119
+890 Espn Radio,radiostations,5,42.38452,-71.07193,02129
+Wall Street Journal,printmedia,5,42.3566818237305,-71.0654220581055,02108
+Film Star,televisionstations,5,42.3309708,-71.0567703,02127
+Gregory Racine Writing and Editing,marketing,5,42.3829612731934,-71.095588684082,02143
+T-Mobile,mobilephones,5,42.2404643,-70.9921523,02169
+Fox 25 Beacon Hill Studio,televisionstations,5,42.3319626,-71.1586914,02467
+T-Mobile,mobilephones,5,42.3743038662259,-71.0399720855867,02128
+Cnn Boston Bureau,televisionstations,5,42.3387699,-71.13227,02446
+Wtkk 96.9 Fm Talk,radiostations,5,42.31751,-71.05028,02125
+T-Mobile,mobilephones,5,42.2404937015236,-71.1787645519871,02026
+T-Mobile,mobilephones,5,42.267696,-71.119805,02136
+Everett Leader-Herald & News Gazette,printmedia,5,42.4087,-71.05569,02149
+Parkway Message Center,telecommunications,5,42.28639,-71.13972,02131
+T-Mobile,mobilephones,5,42.2676842346308,-71.094095271164,02126
+Comcast Service Center,isps,5,42.274826,-71.139816,02131
+WMLN 91.5 FM,radiostations,5,42.2410320847369,-71.113891706607,02186
+Hot97Boston Dot Com,radiostations,5,42.2434998,-71.1317596,02136
+Epoch Times,printmedia,5,42.37491,-71.11342,02238
+T-Mobile,mobilephones,5,42.4185440671455,-71.1101084947586,02155
+Comcast Service Center,isps,5,42.26699,-71.120491,02136
+Verizon Authorized Retailer - Cellular Sales,mobilephones,5,42.405134,-71.091678,02155
+Verizon Authorized Retailer - GoWireless,mobilephones,5,42.247637,-70.982029,02169
+T-Mobile,mobilephones,5,42.424861,-71.069527,02148
+T-Mobile,mobilephones,5,42.4610983,-71.027746,01906
+GALLO Telecom,telecommunications,5,41.94735,-70.59392,02360
+JetBlue,airlines,6,42.366658,-71.01616,02128
+Amtrak,publictransport,6,42.332908,-71.06081,02111
+South Station Bus Terminal,busstations,6,42.3510953038931,-71.0561759769917,02111
+Uber,taxis,6,42.3345559548309,-71.0661193,02108
+Provincetown Fast Ferry,ferries,6,42.360188,-71.049113,02110
+Red Line MBTA,trains,6,42.35866,-71.0567499,02228
+Cabbie's Cab,taxis,6,42.3773146139445,-71.1165618896484,02138
+Charlie Card,publictransport,6,42.351532,-71.06692,02116
+MBTA - North Station,publictransport,6,42.365464,-71.060799,02114
+Green Cab & Yellow Cab of Somerville,taxis,6,42.3761232,-71.0932089,02143
+Massachusetts Bay Transportation Authority,publictransport,6,42.35199,-71.0671651,02116
+Orange Line MBTA,trains,6,42.358333,-71.060278,02228
+Blue Line MBTA,publictransport,6,42.3503494262695,-71.0595016479492,02111
+Southwest Airlines,airlines,6,42.368133953852,-71.01939074616,02128
+MBTA/Silver Line Courthouse Station,publictransport,6,42.3523440238545,-71.0468260994435,02228
+MBTA - Back Bay Station,publictransport,6,42.34744,-71.07495,02116
+Delta Airlines,airlines,6,42.364773,-71.022198,02128
+Charles/MGH T Stop,publictransport,6,42.361009476716,-71.0716617107391,02114
+Green Line MBTA,trains,6,42.35057,-71.07603,02116
+MBTA - Airport Station,busstations,6,42.36342,-71.0257,02128
+American Airlines,airlines,6,42.363255,-71.0183533,02128
+MBTA Commuter Boat,publictransport,6,42.3599649522381,-71.0492199854345,02129
+Spirit Airlines,airlines,6,42.3619910463552,-71.0186933825561,02128
+The Good Taxi,limos,6,42.4125099,-71.091362,02155
+Porter Square MBTA Station - Red Line,metrostations,6,42.388461,-71.119196,02139
+Boston Airport Express,airport_shuttles,6,42.39303,-71.13996,02140
+United Airlines,airlines,6,42.3666285,-71.0165047,02128
+Airport Water Taxi,taxis,6,42.3515446,-71.0500148,02210
+All-Savants Transportation,airport_shuttles,6,42.24121,-71.02255,02169
+Icelandair,airlines,6,42.369638119258,-71.0201468306885,02128
+Lyft,taxis,6,42.37581,-71.03615,02128
+MBTA Bus Route 66,publictransport,6,42.329902,-71.084002,02228
+Boston Cab Dispatch,taxis,6,42.3426603,-71.0991875,02215
+Greyhound Package Express,publictransport,6,42.3510953038931,-71.0561759769917,02111
+Cape Air Charter,airlines,6,42.366273,-71.016298,02128
+City Water Taxi,publictransport,6,42.3641499671982,-71.0327681180428,02128
+Smurfs Transportation,taxis,6,42.3700942993164,-71.2571258544922,02453
+British Airways,airlines,6,42.3699320324056,-71.0195374597412,02128
+Savin Hill MBTA Station,publictransport,6,42.3110224306583,-71.0528091341257,02125
+Massachusetts Turnpike,publictransport,6,42.3631591796875,-71.0650100708008,02114
+Alaska Airlines,airlines,6,42.36342,-71.0257,02128
+MBTA - Charles/MGH Station,metrostations,6,42.360576,-71.071312,02114
+MetroCab,taxis,6,42.3563142120838,-71.1358630657196,02134
+Kendall Square,publictransport,6,42.362315,-71.08404,02238
+Amtrak Lake Shore Limited,publictransport,6,42.3526329483859,-71.0554311798608,02110
+Copley MBTA Station - Green Line,landmarks,6,42.350251,-71.077588,02116
+Cambridge Checker Cab,taxis,6,42.3687722,-71.08796,02141
+Sullivan Square MBTA Station - MBTA Buses & Orange Line,busstations,6,42.384265,-71.077,02129
+Malden Trans,taxis,6,42.4269,-71.06068,02148
+Central Livery,taxis,6,42.374689,-71.0386207,02128
+MBTA Bus Route 77,publictransport,6,42.382654,-71.119611,02138
+MBTA Green Street Station,publictransport,6,42.3104520820164,-71.1067785161095,02130
+MBTA Bus Route 55,publictransport,6,42.3475456237793,-71.1020126342773,02215
+Aer Lingus,airlines,6,42.3715721795968,-71.0228075820312,02128
+DK Limousine Service,limos,6,42.3513701532276,-71.060348361377,02111
+Metro Cab,taxis,6,42.3555893,-71.1356996,02134
+Independent Taxi Operators Association,taxis,6,42.29769,-71.05564,02122
+Sila Transportation,limos,6,42.33293,-71.17235,02467
+617-TAXI CAB,taxis,6,42.3860637,-71.017906,02128
+Sensible Livery Service,limos,6,42.4204254150391,-71.1566619873047,02474
+Lufthansa,airlines,6,42.3700503010449,-71.0214342910156,02128
+Andrew Station - MBTA - Red Line,publictransport,6,42.329930059804,-71.0574129661413,02127
+Massachusetts Avenue MBTA Station - Orange Line,publictransport,6,42.3415400243669,-71.0834687948227,02115
+Regal Coach,airport_shuttles,6,42.5250003,-71.0841073,01867
+Porter Airlines,airlines,6,42.3794208395739,-71.0162233227539,02128
+Green Line- E,publictransport,6,42.3408851623535,-71.0948181152344,02115
+On Time Taxi Service,taxis,6,42.18722,-71.2029,02062
+MBTA - Alewife Station,metrostations,6,42.3956297463504,-71.1417540799913,02140
+Green Line - B Trains,trains,6,42.3501,-71.12912,02134
+Wellington Station,publictransport,6,42.4023666381836,-71.0771102905273,02155
+Air Canada,airlines,6,42.3656132,-71.0095602,02128
+Patriots Train,publictransport,6,42.35226,-71.05569,02111
+MBTA Kendall/MIT Station,metrostations,6,42.3624294976641,-71.0861707003448,02142
+IBoston Limo,limos,6,42.35273,-71.13302,02134
+Japan Airlines,airlines,6,42.37866,-71.0175966137695,02128
+Norwegian Air Shuttle,airlines,6,42.3698369135927,-71.0197037567001,02128
+MBTA - State Street Station,publictransport,6,42.3587828845079,-71.0573991608579,02109
+Air France,airlines,6,42.3633413,-71.0254363,02128
+MBTA Bus Route 1,publictransport,6,42.376628,-71.119041,02139
+Iberia,airlines,6,42.3720794642531,-71.0193743544922,02128
+Wood Island MBTA Station - Blue Line,publictransport,6,42.3810501,-71.0232086,02128
+Yawkey MBTA Station - Commuter Rail,trainstations,6,42.3465295135975,-71.0993219912052,02215
+Star Taxi of Cambridge,taxis,6,42.35674,-71.11418,02139
+Asthar Car & Limousine Service,taxis,6,42.3153439,-71.0985259,02119
+MBTA Lechmere Station,publictransport,6,42.371129,-71.077164,02141
+Northeastern MBTA Station - Green Line,publictransport,6,42.3403854660609,-71.0888082985143,02115
+Forest Hills Station,publictransport,6,42.300706,-71.114001,02130
+Bay State Taxi,taxis,6,42.253933,-71.125974,02136
+MBTA Bus Route 111,publictransport,6,42.29863,-71.11225,02130
+World Trade Center MBTA Station - Silver Line,publictransport,6,42.3478817466673,-71.0421900396687,02210
+Turkish Airlines,airlines,6,42.3707586722101,-71.0200076415889,02128
+Logan Dependable Ride,taxis,6,42.3729972839355,-71.0155029296875,02128
+Red Cab,taxis,6,42.3468268,-71.1072729,02445
+Virgin Atlantic Airways,airlines,6,42.369618,-71.019296,02128
+Frontier,airlines,6,42.3700503010449,-71.0234942275391,02128
+MBTA Bus Route 501,publictransport,6,42.349069,-71.151947,02134
+MBTA Bus Route 86,publictransport,6,42.3800354003906,-71.1347045898438,02138
+MBTA Bus Route 9,publictransport,6,42.3426214884066,-71.0569752752781,02127
+Top Cab Association,taxis,6,42.4020614624023,-71.0042190551758,02151
+East Boston Tunnel Taxi,taxis,6,42.3694,-71.03982,02128
+SureRide,taxis,6,42.5001825,-71.1626809,01801
+MBTA North Quincy Station,publictransport,6,42.2749282030528,-71.029395337464,02171
+Prudential MBTA E Line T Station,publictransport,6,42.34751,-71.08135,02116
+Oak Grove Station,publictransport,6,42.436682,-71.071107,02148
+Logan Airport Taxi and Car Service,taxis,6,42.3521183,-71.064472,02116
+MBTA Bus Route 87,publictransport,6,42.38274,-71.10055,02143
+Tufts Medical Center MBTA Station,publictransport,6,42.353243753314,-71.1737620085478,02135
+MBTA Bus Route 88,publictransport,6,42.38274,-71.10055,02143
+South Boston Independent Taxi Cab,taxis,6,42.3405,-71.05564,02127
+MBTA - Stony Brook Station,metrostations,6,42.316782649932,-71.104345101,02130
+MBTA - Central,trainstations,6,42.365323,-71.103351,02139
+Orient Heights MBTA Station - Blue Line,publictransport,6,42.3868370056152,-71.0068893432617,02128
+Massachusetts Bay Transportation Authority,publictransport,6,42.37408,-71.11908,02138
+Hawaiian Airlines,airlines,6,42.36342,-71.0257,02128
+Chariot Global Transportaton,taxis,6,42.35866,-71.05675,
+Hello Taxi,taxis,6,42.3545303344727,-71.1364517211914,02134
+Watertown Taxi,taxis,6,42.3642344,-71.1861103,02472
+Swiss International Air Lines,airlines,6,42.3697417946357,-71.0197305787902,02128
+Airport Taxi Cab Service,taxis,6,42.3513586,-71.1733995,02135
+Boston Airport Taxi Cab,taxis,6,42.394027,-71.1399085,02140
+Metro Cab of Boston,taxis,6,42.3794188792889,-71.0630519169065,02129
+Mattapan Trolley,publictransport,6,42.27511,-71.09383,02126
+Mattapan M Line MBTA Station,metrostations,6,42.26781,-71.0928799,02126
+Soloc,taxis,6,42.2076185792685,-71.2106678634882,02062
+MBTA Bus Route 73,publictransport,6,42.3623466491699,-71.1024627685547,02139
+Brighton Taxi,taxis,6,42.3402901,-71.1664505,02135
+MBTA Bus Route 57,publictransport,6,42.35341,-71.13217,02134
+Town Taxi,taxis,6,42.35674,-71.13759,02134
+Airport Taxi Cambridge Ma,taxis,6,42.394027,-71.1399085,02140
+MBTA Bus Route 47,publictransport,6,42.35199,-71.0671651,02116
+Hainan Airlines,airlines,6,42.3633413,-71.0254363,02128
+Wonderland MBTA Station - Bus & Blue Line,publictransport,6,42.4141081,-70.9921771,02151
+Quick Livery,limos,6,42.3584308,-71.0597732,02111
+Roxbury Crossing,trainstations,6,42.2921804140352,-71.1315699682617,02130
+Patriot Taxi of Waltham,taxis,6,42.37593,-71.23985,02451
+Sq Car Service,taxis,6,42.3732109069824,-71.0150146484375,02128
+MBTA Bus Route 69,publictransport,6,42.37414,-71.10391,02139
+MBTA Bus Route 89,publictransport,6,42.38403,-71.07655,02143
+Harvard Square MBTA Station - Red Line & Buses,trainstations,6,42.3737019669415,-71.1190032474356,02138
+Yellow Cab Association,taxis,6,42.4230613708496,-71.1078262329102,02155
+MBTA Bus Route 71,publictransport,6,42.37482,-71.13247,02138
+Alitalia,airlines,6,42.361080825864,-71.0218048095703,02128
+Azores Airlines,airlines,6,42.3696942351032,-71.0193979848724,02128
+MBTA Bus Route 93,publictransport,6,42.38412,-71.0762699,02129
+Cathay Pacific,airlines,6,42.3633413,-71.0254363,02128
+MBTA - Tufts Medical Center Station,trainstations,6,42.3508359152349,-71.0618948147123,02111
+Parkway Cab Inc,airport_shuttles,6,42.284929,-71.126876,02131
+Coastal Livery Transportation Services,limos,6,42.1945826,-70.7253456,02066
+Classic Cab,taxis,6,42.3968001455069,-71.1296430230141,02140
+MBTA - Malden Center Station,publictransport,6,42.4268425288322,-71.0742626129364,02148
+JS Car Service,airport_shuttles,6,42.3544036318819,-71.0603033317196,
+The 350 MBTA Bus,publictransport,6,42.358333,-71.060278,02228
+Cambridge Cab Company,taxis,6,42.371009,-71.078232,02141
+MBTA Bus Route 42,publictransport,6,42.358333,-71.060278,02228
+Metric Cab,taxis,6,42.4176130426859,-71.1059396338379,02155
+Town Taxi,taxis,6,42.3573969,-71.1556629,02135
+Commonwealth Worldwide Executive Transportation,limos,6,42.361877,-71.136122,02134
+MassDOT - Sumner Tunnel,publictransport,6,42.33303,-71.05049,02127
+PenAir,airlines,6,42.3618318389502,-71.0187590547089,02128
+MBTA Bus Route 85,publictransport,6,42.38274,-71.10055,02143
+Scandinavian Airlines,airlines,6,42.3698144087319,-71.0196066327576,02128
+MBTA Bus 65,publictransport,6,42.3466682,-71.1415024,02135
+Jockey Limo,limos,6,42.3555679321289,-71.1924209594727,02458
+MBTA Bus Route 80,publictransport,6,42.38274,-71.10055,02143
+Malden Taxi,taxis,6,42.4269,-71.06068,02148
+Brookline Red Cab,taxis,6,42.3945993930101,-71.0650004446507,02149
+MBTA Bus Route 70,publictransport,6,42.3800354003906,-71.1347045898438,02138
+MBTA Bus Route CT2,publictransport,6,42.38675,-71.09845,
+President's Livery Service,limos,6,42.1479797,-71.0732574,02072
+Transportation of New England,airport_shuttles,6,42.36415,-71.10129,02139
+Bani Transportation,taxis,6,42.3044089,-71.1080846,02130
+El Al Israel Airlines,airlines,6,42.369822335308,-71.0196280904297,02128
+Transportation of New England,airport_shuttles,6,42.3584308,-71.0597732,02109
+MBTA - Hynes Convention Center,publictransport,6,42.3478758898731,-71.0878998041153,02116
+Yellow Cab of Quincy,taxis,6,42.25181,-70.99684,02169
+Herald Street - Silver Line,metrostations,6,42.3466,-71.06459,02118
+Newton Street - Silver Line,metrostations,6,42.33882,-71.07366,02118
+Union Park Street - Silver Line,metrostations,6,42.34131,-71.0697,02118
+East Berkeley Street Silver Line Station,busstations,6,42.3402519226074,-71.0750122070312,02118
+Sun Country Airlines,airlines,6,42.3666285,-71.0165047,02128
+Massachusetts Avenue - Silver Line,metrostations,6,42.34094,-71.08411,02118
+MBTA - Science Park,publictransport,6,42.360662075409,-71.0585611787903,02114
+Arlington Veterans Taxi,taxis,6,42.405871,-71.1373712,02474
+MBTA CT1 Bus route,publictransport,6,42.3516937532968,-71.0805130004883,02601
+Saint Marys Street MBTA Station,metrostations,6,42.3459817225175,-71.106893290213,02215
+Community College MBTA Station - Orange Line,metrostations,6,42.3735714411057,-71.069518047113,02129
+7 MBTA Bus,publictransport,6,42.3459,-71.04216,02210
+Heath Circle MBTA Station - Green Line,metrostations,6,42.3249599706882,-71.0985850091511,02101
+Airport T Stop,publictransport,6,42.3719899,-71.03372,02128
+MBTA Route 10 Bus,publictransport,6,42.3340892130101,-71.0734534263611,02116
+Pleasant Street MBTA Station,metrostations,6,42.3515489799753,-71.1190546338684,02215
+Charlestown/Boston ferry,publictransport,6,42.3674344846199,-71.0588827730469,02129
+Forest Hills Taxi,taxis,6,42.315055847168,-71.1152725219727,02130
+Silver Line Way MBTA Station,publictransport,6,42.3477329078192,-71.0395879341196,02210
+Metro Cab Assoc,taxis,6,42.3580169677734,-71.0651321411133,02108
+Hybrid-Ride,airport_shuttles,6,42.2465057373047,-71.1776733398438,02026
+120 MBTA Bus,buses,6,42.3816563934088,-71.020849943161,02128
+MBTA Wollaston Station,publictransport,6,42.2665465791122,-71.0203255712986,02170
+Qantas,airlines,6,42.369822335308,-71.0195422597412,02128
+Butler M Line MBTA Station,metrostations,6,42.272356,-71.062588,02124
+Yellow Taxi,taxis,6,42.408604,-71.013703,02151
+Premier Logan Taxi,taxis,6,42.4191055297852,-71.0039749145508,02151
+OnCabs Boston,airport_shuttles,6,42.344246,-71.076946,02116
+WestJet,airlines,6,42.3644716689138,-71.021666569281,02128
+Boston Taxi & Limousine Service,limos,6,42.3520393,-71.0725937,02116
+Cambridge Taxi Cab,taxis,6,42.3610992,-71.115097,02138
+Kent Street - Green Line MBTA,metrostations,6,42.34413839833,-71.1141486429222,02446
+MBTA Bus Route 68,publictransport,6,42.3623466491699,-71.1024627685547,02139
+Keolis,trains,6,42.3545002,-71.0515934,02210
+Logan Airport Express,airport_shuttles,6,42.3803291,-71.0253906,02128
+Eastern Bus Company,publictransport,6,42.3776066,-71.0858809,02143
+Packards Corner MBTA,metrostations,6,42.3517627145328,-71.1251893277863,02215
+London Taxi of Norwood,taxis,6,42.1933,-71.20168,02062
+Boston University East MBTA - Green Line B,metrostations,6,42.34958,-71.10364,02215
+Blandford St MBTA,publictransport,6,42.3492949,-71.100254,02215
+Boston University Central MBTA - Green Line,metrostations,6,42.3500260613752,-71.1066305190491,02215
+Brigham Circle,metrostations,6,42.334723365908,-71.1033958550171,02120
+Longwood Medical Area MBTA - E Line,metrostations,6,42.33583,-71.10035,02115
+Boston University West MBTA - Green Line,metrostations,6,42.35079,-71.1138,02446
+Winthrop Ferry,publictransport,6,42.3674098402262,-70.9708716720343,02152
+Medford City Taxi,taxis,6,42.4087015707094,-71.09286117221,02155
+M & M Livery Service,taxis,6,42.2440927,-71.150229,02026
+Riverway MBTA Station - Green Line,metrostations,6,42.3315651853523,-71.1117533625656,02115
+Harvard Avenue MBTA Station - Green Line,metrostations,6,42.3504230211185,-71.1310473521149,02134
+Aeromexico,airlines,6,42.369822335308,-71.0196173615936,02128
+Boutique Air,airlines,6,42.3755187988281,-71.036750793457,02128
+Square Cab Company of Chelsea,taxis,6,42.3988,-71.03108,02150
+Virgin Atlantic Airways,airlines,6,42.3618017,-71.0252615,02128
+Washington Street MBTA Station - Green Line,metrostations,6,42.34296,-71.14818,02135
+MBTA Bus Route 79,publictransport,6,42.3515962921752,-71.0686557094109,02476
+Mbta Mission Park Stop,publictransport,6,42.3332847654819,-71.1092052608728,02115
+MBTA Bus Route 90,publictransport,6,42.38274,-71.10055,02143
+Suffolk Downs MBTA - Blue Line,metrostations,6,42.3902444971524,-70.9967947534424,02128
+City Black Cars,airport_shuttles,6,42.419036,-71.111889,02155
+MBTA Bus Route 350,publictransport,6,42.3668,-71.10602,
+Ventura Taxi,taxis,6,42.3916245,-71.0356445,02150
+Boston Airport Express,taxis,6,42.3575793,-71.05277,02110
+Marathon Cab,taxis,6,42.3370413,-71.2092214,02459
+Knight's Airport Limo Service,limos,6,42.2508685,-71.7084335,01545
+Green Cab Company,taxis,6,42.39038,-71.08613,02145
+MBTA Bus Route 109,publictransport,6,42.4301414489746,-71.0717849731445,02148
+Vamoose Bus,publictransport,6,42.3723229765892,-71.1221261322498,02238
+Patriot Taxi,taxis,6,42.415907500448,-71.00778,02151
+TRUSTED RIDE TAXI and LIMO,taxis,6,42.3742591,-71.2373056,02453
+Saugus Center Taxi,taxis,6,42.4585235165391,-71.0244870185852,01906
+Royal Air Maroc,airlines,6,42.36342,-71.0257,02128
+Yellow Cab Quincy,taxis,6,42.2859992980957,-71.0263748168945,02171
+Copa Airlines,airlines,6,42.369822335308,-71.0195959039215,02128
+All Area Taxi,taxis,6,42.358116,-71.07026,02114
+Green Line- C,publictransport,6,42.3261909484863,-71.1333541870117,02445
+Gainsborough Cab Stand,publictransport,6,42.34142,-71.08646,02115
+Long's Taxi & Airport Transportation,taxis,6,41.65892,-70.20273,02664
+Fenwood Road MBTA - E Line,metrostations,6,42.33379,-71.10558,02115
+Griggs Street MBTA - Green Line,metrostations,6,42.3486671445317,-71.1346096669342,02134
+Allston Street MBTA Station - Green Line,metrostations,6,42.34833,-71.13779,02134
+Cleveland Cab Co,taxis,6,42.3426603,-71.0991875,02215
+LATAM Airlines,airlines,6,42.36342,-71.0257,02128
+Warren Street MBTA Station - Green Line,metrostations,6,42.3486,-71.14017,02135
+Sutherland Road MBTA Station - Green Line,busstations,6,42.34134,-71.14677,02135
+Lucky 7 Taxi,taxis,6,42.4223799,-71.008008,02128
+Back of the Hill - MBTA Green Line,metrostations,6,42.329572,-71.110969,02130
+LEVEL,airlines,6,42.36342,-71.0257,02128
+South Street - Green Line MBTA,metrostations,6,42.339598,-71.157681,02135
+AMX CAR Service,taxis,6,42.2486,-71.15509,02026
+Chiswick Road MBTA Station - Green Line,metrostations,6,42.3406150265353,-71.1509624042297,02135
+Lexington Black Car,limos,6,42.45226,-71.2238,02420
+City Cab,taxis,6,42.4015838652849,-71.0048693418503,02151
+Mbta,publictransport,6,42.351963,-71.1638412,02135
+MBTA Station - Brookline Hills,metrostations,6,42.3312906285694,-71.1265095338684,02445
+Paul Revere Transportation,publictransport,6,42.3905754089355,-71.0233993530273,02150
+Winthrop Taxi & Limo,taxis,6,42.372989654541,-70.9773330688477,02152
+Quincy Cab,taxis,6,42.2495,-71.00249,02169
+Newton Taxi Company,taxis,6,42.35255,-71.18628,02458
+Silver Airways,airlines,6,42.36342,-71.0257,02128
+MBTA Bus Route 194,publictransport,6,42.401054,-71.135934,02144
+Beachmont MBTA Blue Line,metrostations,6,42.3976999,-70.9920352,02151
+MBTA Bus Route 101,publictransport,6,42.419874610862,-71.1086711883545,
+Bentley Taxi of Waltham,taxis,6,42.383177,-71.264686,02451
+Milton M Line MBTA Station,metrostations,6,42.2706821,-71.068172,02186
+Beaconsfield MBTA Station - Green Line,metrostations,6,42.335888,-71.14024,02445
+Milton Cab,taxis,6,42.2495321,-71.0661653,02186
+Town Taxi,taxis,6,42.33405,-71.120597,02445
+MBTA Bus Route 51,publictransport,6,42.343106,-71.153531,02135
+U. S. Airport Transportation,taxis,6,43.0139999,-71.4514236,03104
+Fisherman Taxi,taxis,6,42.6148063,-70.7000433,01930
+Belmont Taxi Company,taxis,6,42.3958435058594,-71.1796875,02478
+MBTA Station,metrostations,6,42.332797,-71.116666,02445
+Cambridge Cab,taxis,6,42.3814239501953,-71.0905151367188,02143
+H & M Transportation,taxis,6,42.3133392,-71.1004791,02130
+Julies Livery,taxis,6,42.372631072998,-71.0156402587891,02128
+Avianca,airlines,6,42.3633413,-71.0254363,02128
+Cambridge Union Taxi,taxis,6,42.39792,-71.13212,02140
+American Taxi,taxis,6,42.3800354003906,-71.1347045898438,02138
+Medford Taxi,taxis,6,42.4010811,-71.1128006,02155
+Logan Airport Cabs,taxis,6,42.3484268188477,-71.1547470092773,02135
+New England Taxi Cambridge,taxis,6,42.37314,-71.08157,02238
+Shore Taxi,taxis,6,42.2423897,-70.9808733,02169
+White Cab,taxis,6,42.2479463,-71.1730524,02026
+Everett Taxi,taxis,6,42.4269,-71.06068,02148
+Independent Cab Company,taxis,6,42.3988,-71.03108,02150
+Atlantic Car Service Taxi,taxis,6,42.3225708,-71.1017532,02130
+Service Taxi,taxis,6,42.3888675123453,-71.040618494153,02150
+USA Taxi Assoc,taxis,6,42.34521,-71.06179,02118
+Central Avenue M Line MBTA Station,metrostations,6,42.26318,-71.0791799,02186
+Airport Cab of Arlington,taxis,6,42.40975,-71.13288,02474
+Summit Avenue - Green Line MBTA,metrostations,6,42.341008,-71.12576,02446
+Capen Street M Line MBTA Station,metrostations,6,42.2675711183783,-71.0872154291138,02186
+A & A Metro Transportation,limos,6,41.961617,-70.971643,02324
+Medford Taxi MA,taxis,6,42.401339,-71.0974976,02155
+Bayside Coach,airport_shuttles,6,42.281,-70.87218,02045
+Brandon Hall MBTA Station - Green Line,metrostations,6,42.3399463410698,-71.1283250236876,02446
+Riverside Car Service,taxis,6,42.3083496,-71.084877,02121
+Fairbanks Street MBTA Station - Green Line,metrostations,6,42.33949,-71.1313,02446
+Taxi Time,taxis,6,42.4325942993164,-71.0600967407227,02148
+A Plus Taxi Service,airport_shuttles,6,42.19211,-71.20148,02062
+Englewood Avenue MBTA - Green Line,metrostations,6,42.3382150002825,-71.139445000223,02445
+MBTA Bus Route 430,publictransport,6,42.4301414489746,-71.0717849731445,02148
+Dean Road - Green Line,metrostations,6,42.3382150002825,-71.139445000223,02445
+Tappan Street MBTA Station - Green Line,metrostations,6,42.33837,-71.13876,02445
+Tufts Taxi Service,taxis,6,42.40077,-71.11196,02144
+Medford Cab,taxis,6,42.415247708559,-71.1106261610985,02155
+Crystal Transport,publictransport,6,42.2549514770508,-71.125617980957,02136
+Forest Hills Independent Taxi Service,taxis,6,42.2873358428478,-71.1270848661661,02131
+Medford Cab,taxis,6,42.4013071547995,-71.0976048883606,02155
+Waltham Taxi,taxis,6,42.3699774,-71.2365677,02453
+Marina Bay Taxi,taxis,6,42.265811,-71.0111463,02169
+MBTA,publictransport,6,42.4047355651855,-70.994140625,02151
+iTaxi Cambridge,taxis,6,42.3623466491699,-71.1024627685547,02139
+Massachusetts Bay Transportation Authority,publictransport,6,42.3416052002029,-71.1462036520243,02135
+Haverhill Taxi,taxis,6,42.7798261,-71.0787956,01830
+Blue Taxi,taxis,6,42.39278,-71.02358,02150
+Lowell Cab,taxis,6,42.633812,-71.297748,01852
+Valley Road M Line MBTA Station,metrostations,6,42.268335958566,-71.0813380048462,02186
+Somerville Taxi,taxis,6,42.38142,-71.09052,02143
+Boston Metro Shuttle,airport_shuttles,6,42.2943382263184,-71.1175308227539,02130
+Belmont Cab Service,taxis,6,42.39707,-71.17834,02478
+Somerville Cab of Cambridge,taxis,6,42.4007034301758,-71.1220703125,02144
+Arlington Cab Company,taxis,6,42.4204254150391,-71.1566619873047,02474
+Aaa Peravia Transportation,taxis,6,42.31978,-71.0986,02119
+Minivan Taxi Logan Airport,airport_shuttles,6,42.393056,-71.139985,02140
+McGrath's Taxi Serv,taxis,6,42.2519014,-70.9970338,02169
+City Taxi,taxis,6,42.4117755889893,-71.0187819600105,02151
+Melrose Taxi,taxis,6,42.4565062,-71.0586461,02176
+Winchester Center,publictransport,6,42.4512295,-71.1376202,01890
+Leg Car Services,taxis,6,42.42907,-71.062871,02148
+Junior's Taxi,taxis,6,42.04934,-70.1887,02657
+Pride Taxi Service Inc,taxis,6,42.0569877624512,-70.1855316162109,02657
+MBTA Bus Rte 136,publictransport,6,42.45309,-71.06647,02176
+Family Taxi Service,taxis,6,42.19211,-71.20148,02062
+Vocell Bus Company,publictransport,6,42.4135780334473,-71.0746841430664,02148
+Arlington Cabs,taxis,6,42.3991718,-71.1240559,02144
+Newton Taxi,taxis,6,42.3144989013672,-71.1922302246094,02459
+Quincy Taxi,taxis,6,42.2423897,-70.9808733,02169
+Boston Airport Taxi Cab Service,limos,6,42.4101915,-71.0910015,02155
+Stoneham Taxi,taxis,6,42.44318,-71.03455,02148
+Cambridge Taxi,taxis,6,42.3966312,-71.1298383,02140
+Garcia's Taxi,taxis,6,42.456776,-70.956343,01905
+Parkway Taxi,taxis,6,42.2873358428478,-71.1270848661661,02131
+Gold Chip Taxi,taxis,6,42.4115982,-71.011673,02151
+West Medford Cab Cellular,taxis,6,42.422339,-71.0905856,02155
+Airport Taxi-Arlington,taxis,6,42.4244915,-71.1833301,02474
+Morse Taxi,taxis,6,42.395896,-71.17619,02478
+Milton White Cab,taxis,6,42.2390670776367,-71.0840606689453,02186
+Everett Taxi,taxis,6,42.4305229187012,-71.0575561523438,02148
+Red Cab - Worcester,taxis,6,42.282092,-71.799726,01605
+Revere Airport  Taxi & Transportation,taxis,6,42.40474,-70.99439,02151
+Bill's Transportation Services,taxis,6,41.8532791137695,-71.4753799438477,02911
+Black & White Taxi,airport_shuttles,6,42.05024,-70.18985,02657
+AFS Airport Taxi,taxis,6,42.4698219299316,-70.9633026123047,01905
+Belmont Cab Service,taxis,6,42.4204254150391,-71.1566619873047,02474
+Wellesley Taxi and Limo,limos,6,42.3014336,-71.2871704,02482
+Liberty Cab Company,taxis,6,42.2022338,-71.0023521,02184
+Natick Airport Taxi and Car Services,taxis,6,42.284,-71.34617,01760
+Taxi Time,taxis,6,42.45717,-71.06405,02176
+Lexington Airport Taxi Cab,taxis,6,42.4352793,-71.2347513,02421
+Vsp Transportation,publictransport,6,42.4623832702637,-71.0097579956055,01906
+Toms Taxi,taxis,6,42.456776,-70.956345,01901
+Portsmouth Taxi,taxis,6,43.0399354,-70.7765737,03801
+C J Livery,limos,6,42.399052,-71.591305,01749
+UMIB Limousine,airport_shuttles,6,42.5050354003906,-71.070671081543,01880
+Burlington Airport Taxi Cab,airport_shuttles,6,42.4857978820801,-71.2197952270508,01803
+Airport Express Direct,airport_shuttles,6,41.732578,-70.956139,02745
+Latinos Transportation,taxis,6,42.98607,-71.44613,03103
+Barnstable Taxi and Livery,taxis,6,41.66953,-70.18828,02664
+Flood Fire Pro,damagerestoration,7,42.0581378,-71.3925964,02038

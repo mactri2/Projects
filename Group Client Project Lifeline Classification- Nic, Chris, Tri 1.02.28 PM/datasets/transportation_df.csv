@@ -1,0 +1,387 @@
+Business,Category,Lifeline,Latitude,Longitude,Zipcode
+JetBlue,airlines,6,42.366658,-71.01616,02128
+Amtrak,publictransport,6,42.332908,-71.06081,02111
+South Station Bus Terminal,busstations,6,42.3510953038931,-71.0561759769917,02111
+Uber,taxis,6,42.3345559548309,-71.0661193,02108
+Provincetown Fast Ferry,ferries,6,42.360188,-71.049113,02110
+Red Line MBTA,trains,6,42.35866,-71.0567499,02228
+Cabbie's Cab,taxis,6,42.3773146139445,-71.1165618896484,02138
+Charlie Card,publictransport,6,42.351532,-71.06692,02116
+MBTA - North Station,publictransport,6,42.365464,-71.060799,02114
+Green Cab & Yellow Cab of Somerville,taxis,6,42.3761232,-71.0932089,02143
+Massachusetts Bay Transportation Authority,publictransport,6,42.35199,-71.0671651,02116
+Orange Line MBTA,trains,6,42.358333,-71.060278,02228
+Blue Line MBTA,publictransport,6,42.3503494262695,-71.0595016479492,02111
+Southwest Airlines,airlines,6,42.368133953852,-71.01939074616,02128
+MBTA/Silver Line Courthouse Station,publictransport,6,42.3523440238545,-71.0468260994435,02228
+MBTA - Back Bay Station,publictransport,6,42.34744,-71.07495,02116
+Delta Airlines,airlines,6,42.364773,-71.022198,02128
+Charles/MGH T Stop,publictransport,6,42.361009476716,-71.0716617107391,02114
+Green Line MBTA,trains,6,42.35057,-71.07603,02116
+MBTA - Airport Station,busstations,6,42.36342,-71.0257,02128
+American Airlines,airlines,6,42.363255,-71.0183533,02128
+MBTA Commuter Boat,publictransport,6,42.3599649522381,-71.0492199854345,02129
+Spirit Airlines,airlines,6,42.3619910463552,-71.0186933825561,02128
+The Good Taxi,limos,6,42.4125099,-71.091362,02155
+Porter Square MBTA Station - Red Line,metrostations,6,42.388461,-71.119196,02139
+Boston Airport Express,airport_shuttles,6,42.39303,-71.13996,02140
+United Airlines,airlines,6,42.3666285,-71.0165047,02128
+Airport Water Taxi,taxis,6,42.3515446,-71.0500148,02210
+All-Savants Transportation,airport_shuttles,6,42.24121,-71.02255,02169
+Icelandair,airlines,6,42.369638119258,-71.0201468306885,02128
+Lyft,taxis,6,42.37581,-71.03615,02128
+MBTA Bus Route 66,publictransport,6,42.329902,-71.084002,02228
+Boston Cab Dispatch,taxis,6,42.3426603,-71.0991875,02215
+Greyhound Package Express,publictransport,6,42.3510953038931,-71.0561759769917,02111
+Cape Air Charter,airlines,6,42.366273,-71.016298,02128
+City Water Taxi,publictransport,6,42.3641499671982,-71.0327681180428,02128
+Smurfs Transportation,taxis,6,42.3700942993164,-71.2571258544922,02453
+British Airways,airlines,6,42.3699320324056,-71.0195374597412,02128
+Savin Hill MBTA Station,publictransport,6,42.3110224306583,-71.0528091341257,02125
+Massachusetts Turnpike,publictransport,6,42.3631591796875,-71.0650100708008,02114
+Alaska Airlines,airlines,6,42.36342,-71.0257,02128
+MBTA - Charles/MGH Station,metrostations,6,42.360576,-71.071312,02114
+MetroCab,taxis,6,42.3563142120838,-71.1358630657196,02134
+Kendall Square,publictransport,6,42.362315,-71.08404,02238
+Amtrak Lake Shore Limited,publictransport,6,42.3526329483859,-71.0554311798608,02110
+Copley MBTA Station - Green Line,landmarks,6,42.350251,-71.077588,02116
+Cambridge Checker Cab,taxis,6,42.3687722,-71.08796,02141
+Sullivan Square MBTA Station - MBTA Buses & Orange Line,busstations,6,42.384265,-71.077,02129
+Malden Trans,taxis,6,42.4269,-71.06068,02148
+Central Livery,taxis,6,42.374689,-71.0386207,02128
+MBTA Bus Route 77,publictransport,6,42.382654,-71.119611,02138
+MBTA Green Street Station,publictransport,6,42.3104520820164,-71.1067785161095,02130
+MBTA Bus Route 55,publictransport,6,42.3475456237793,-71.1020126342773,02215
+Aer Lingus,airlines,6,42.3715721795968,-71.0228075820312,02128
+DK Limousine Service,limos,6,42.3513701532276,-71.060348361377,02111
+Metro Cab,taxis,6,42.3555893,-71.1356996,02134
+Independent Taxi Operators Association,taxis,6,42.29769,-71.05564,02122
+Sila Transportation,limos,6,42.33293,-71.17235,02467
+617-TAXI CAB,taxis,6,42.3860637,-71.017906,02128
+Sensible Livery Service,limos,6,42.4204254150391,-71.1566619873047,02474
+Lufthansa,airlines,6,42.3700503010449,-71.0214342910156,02128
+Andrew Station - MBTA - Red Line,publictransport,6,42.329930059804,-71.0574129661413,02127
+Massachusetts Avenue MBTA Station - Orange Line,publictransport,6,42.3415400243669,-71.0834687948227,02115
+Regal Coach,airport_shuttles,6,42.5250003,-71.0841073,01867
+Porter Airlines,airlines,6,42.3794208395739,-71.0162233227539,02128
+Green Line- E,publictransport,6,42.3408851623535,-71.0948181152344,02115
+On Time Taxi Service,taxis,6,42.18722,-71.2029,02062
+MBTA - Alewife Station,metrostations,6,42.3956297463504,-71.1417540799913,02140
+Green Line - B Trains,trains,6,42.3501,-71.12912,02134
+Wellington Station,publictransport,6,42.4023666381836,-71.0771102905273,02155
+Air Canada,airlines,6,42.3656132,-71.0095602,02128
+Patriots Train,publictransport,6,42.35226,-71.05569,02111
+MBTA Kendall/MIT Station,metrostations,6,42.3624294976641,-71.0861707003448,02142
+IBoston Limo,limos,6,42.35273,-71.13302,02134
+Japan Airlines,airlines,6,42.37866,-71.0175966137695,02128
+Norwegian Air Shuttle,airlines,6,42.3698369135927,-71.0197037567001,02128
+MBTA - State Street Station,publictransport,6,42.3587828845079,-71.0573991608579,02109
+Air France,airlines,6,42.3633413,-71.0254363,02128
+MBTA Bus Route 1,publictransport,6,42.376628,-71.119041,02139
+Iberia,airlines,6,42.3720794642531,-71.0193743544922,02128
+Wood Island MBTA Station - Blue Line,publictransport,6,42.3810501,-71.0232086,02128
+Yawkey MBTA Station - Commuter Rail,trainstations,6,42.3465295135975,-71.0993219912052,02215
+Star Taxi of Cambridge,taxis,6,42.35674,-71.11418,02139
+Asthar Car & Limousine Service,taxis,6,42.3153439,-71.0985259,02119
+MBTA Lechmere Station,publictransport,6,42.371129,-71.077164,02141
+Northeastern MBTA Station - Green Line,publictransport,6,42.3403854660609,-71.0888082985143,02115
+Forest Hills Station,publictransport,6,42.300706,-71.114001,02130
+Bay State Taxi,taxis,6,42.253933,-71.125974,02136
+MBTA Bus Route 111,publictransport,6,42.29863,-71.11225,02130
+World Trade Center MBTA Station - Silver Line,publictransport,6,42.3478817466673,-71.0421900396687,02210
+Turkish Airlines,airlines,6,42.3707586722101,-71.0200076415889,02128
+Logan Dependable Ride,taxis,6,42.3729972839355,-71.0155029296875,02128
+Red Cab,taxis,6,42.3468268,-71.1072729,02445
+Virgin Atlantic Airways,airlines,6,42.369618,-71.019296,02128
+Frontier,airlines,6,42.3700503010449,-71.0234942275391,02128
+MBTA Bus Route 501,publictransport,6,42.349069,-71.151947,02134
+MBTA Bus Route 86,publictransport,6,42.3800354003906,-71.1347045898438,02138
+MBTA Bus Route 9,publictransport,6,42.3426214884066,-71.0569752752781,02127
+Top Cab Association,taxis,6,42.4020614624023,-71.0042190551758,02151
+East Boston Tunnel Taxi,taxis,6,42.3694,-71.03982,02128
+SureRide,taxis,6,42.5001825,-71.1626809,01801
+MBTA North Quincy Station,publictransport,6,42.2749282030528,-71.029395337464,02171
+Prudential MBTA E Line T Station,publictransport,6,42.34751,-71.08135,02116
+Oak Grove Station,publictransport,6,42.436682,-71.071107,02148
+Logan Airport Taxi and Car Service,taxis,6,42.3521183,-71.064472,02116
+MBTA Bus Route 87,publictransport,6,42.38274,-71.10055,02143
+Tufts Medical Center MBTA Station,publictransport,6,42.353243753314,-71.1737620085478,02135
+MBTA Bus Route 88,publictransport,6,42.38274,-71.10055,02143
+South Boston Independent Taxi Cab,taxis,6,42.3405,-71.05564,02127
+MBTA - Stony Brook Station,metrostations,6,42.316782649932,-71.104345101,02130
+MBTA - Central,trainstations,6,42.365323,-71.103351,02139
+Orient Heights MBTA Station - Blue Line,publictransport,6,42.3868370056152,-71.0068893432617,02128
+Massachusetts Bay Transportation Authority,publictransport,6,42.37408,-71.11908,02138
+Hawaiian Airlines,airlines,6,42.36342,-71.0257,02128
+Chariot Global Transportaton,taxis,6,42.35866,-71.05675,
+Hello Taxi,taxis,6,42.3545303344727,-71.1364517211914,02134
+Watertown Taxi,taxis,6,42.3642344,-71.1861103,02472
+Swiss International Air Lines,airlines,6,42.3697417946357,-71.0197305787902,02128
+Airport Taxi Cab Service,taxis,6,42.3513586,-71.1733995,02135
+Boston Airport Taxi Cab,taxis,6,42.394027,-71.1399085,02140
+Metro Cab of Boston,taxis,6,42.3794188792889,-71.0630519169065,02129
+Mattapan Trolley,publictransport,6,42.27511,-71.09383,02126
+Mattapan M Line MBTA Station,metrostations,6,42.26781,-71.0928799,02126
+Soloc,taxis,6,42.2076185792685,-71.2106678634882,02062
+MBTA Bus Route 73,publictransport,6,42.3623466491699,-71.1024627685547,02139
+Brighton Taxi,taxis,6,42.3402901,-71.1664505,02135
+MBTA Bus Route 57,publictransport,6,42.35341,-71.13217,02134
+Town Taxi,taxis,6,42.35674,-71.13759,02134
+Airport Taxi Cambridge Ma,taxis,6,42.394027,-71.1399085,02140
+MBTA Bus Route 47,publictransport,6,42.35199,-71.0671651,02116
+Hainan Airlines,airlines,6,42.3633413,-71.0254363,02128
+Wonderland MBTA Station - Bus & Blue Line,publictransport,6,42.4141081,-70.9921771,02151
+Quick Livery,limos,6,42.3584308,-71.0597732,02111
+Roxbury Crossing,trainstations,6,42.2921804140352,-71.1315699682617,02130
+Patriot Taxi of Waltham,taxis,6,42.37593,-71.23985,02451
+Sq Car Service,taxis,6,42.3732109069824,-71.0150146484375,02128
+MBTA Bus Route 69,publictransport,6,42.37414,-71.10391,02139
+MBTA Bus Route 89,publictransport,6,42.38403,-71.07655,02143
+Harvard Square MBTA Station - Red Line & Buses,trainstations,6,42.3737019669415,-71.1190032474356,02138
+Yellow Cab Association,taxis,6,42.4230613708496,-71.1078262329102,02155
+MBTA Bus Route 71,publictransport,6,42.37482,-71.13247,02138
+Alitalia,airlines,6,42.361080825864,-71.0218048095703,02128
+Azores Airlines,airlines,6,42.3696942351032,-71.0193979848724,02128
+MBTA Bus Route 93,publictransport,6,42.38412,-71.0762699,02129
+Cathay Pacific,airlines,6,42.3633413,-71.0254363,02128
+MBTA - Tufts Medical Center Station,trainstations,6,42.3508359152349,-71.0618948147123,02111
+Parkway Cab Inc,airport_shuttles,6,42.284929,-71.126876,02131
+Coastal Livery Transportation Services,limos,6,42.1945826,-70.7253456,02066
+Classic Cab,taxis,6,42.3968001455069,-71.1296430230141,02140
+MBTA - Malden Center Station,publictransport,6,42.4268425288322,-71.0742626129364,02148
+JS Car Service,airport_shuttles,6,42.3544036318819,-71.0603033317196,
+The 350 MBTA Bus,publictransport,6,42.358333,-71.060278,02228
+Cambridge Cab Company,taxis,6,42.371009,-71.078232,02141
+MBTA Bus Route 42,publictransport,6,42.358333,-71.060278,02228
+Metric Cab,taxis,6,42.4176130426859,-71.1059396338379,02155
+Town Taxi,taxis,6,42.3573969,-71.1556629,02135
+Commonwealth Worldwide Executive Transportation,limos,6,42.361877,-71.136122,02134
+MassDOT - Sumner Tunnel,publictransport,6,42.33303,-71.05049,02127
+PenAir,airlines,6,42.3618318389502,-71.0187590547089,02128
+MBTA Bus Route 85,publictransport,6,42.38274,-71.10055,02143
+Scandinavian Airlines,airlines,6,42.3698144087319,-71.0196066327576,02128
+MBTA Bus 65,publictransport,6,42.3466682,-71.1415024,02135
+Jockey Limo,limos,6,42.3555679321289,-71.1924209594727,02458
+MBTA Bus Route 80,publictransport,6,42.38274,-71.10055,02143
+Malden Taxi,taxis,6,42.4269,-71.06068,02148
+Brookline Red Cab,taxis,6,42.3945993930101,-71.0650004446507,02149
+MBTA Bus Route 70,publictransport,6,42.3800354003906,-71.1347045898438,02138
+MBTA Bus Route CT2,publictransport,6,42.38675,-71.09845,
+President's Livery Service,limos,6,42.1479797,-71.0732574,02072
+Transportation of New England,airport_shuttles,6,42.36415,-71.10129,02139
+Bani Transportation,taxis,6,42.3044089,-71.1080846,02130
+El Al Israel Airlines,airlines,6,42.369822335308,-71.0196280904297,02128
+Transportation of New England,airport_shuttles,6,42.3584308,-71.0597732,02109
+MBTA - Hynes Convention Center,publictransport,6,42.3478758898731,-71.0878998041153,02116
+Yellow Cab of Quincy,taxis,6,42.25181,-70.99684,02169
+Herald Street - Silver Line,metrostations,6,42.3466,-71.06459,02118
+Newton Street - Silver Line,metrostations,6,42.33882,-71.07366,02118
+Union Park Street - Silver Line,metrostations,6,42.34131,-71.0697,02118
+East Berkeley Street Silver Line Station,busstations,6,42.3402519226074,-71.0750122070312,02118
+Sun Country Airlines,airlines,6,42.3666285,-71.0165047,02128
+Massachusetts Avenue - Silver Line,metrostations,6,42.34094,-71.08411,02118
+MBTA - Science Park,publictransport,6,42.360662075409,-71.0585611787903,02114
+Arlington Veterans Taxi,taxis,6,42.405871,-71.1373712,02474
+MBTA CT1 Bus route,publictransport,6,42.3516937532968,-71.0805130004883,02601
+Saint Marys Street MBTA Station,metrostations,6,42.3459817225175,-71.106893290213,02215
+Community College MBTA Station - Orange Line,metrostations,6,42.3735714411057,-71.069518047113,02129
+7 MBTA Bus,publictransport,6,42.3459,-71.04216,02210
+Heath Circle MBTA Station - Green Line,metrostations,6,42.3249599706882,-71.0985850091511,02101
+Airport T Stop,publictransport,6,42.3719899,-71.03372,02128
+MBTA Route 10 Bus,publictransport,6,42.3340892130101,-71.0734534263611,02116
+Pleasant Street MBTA Station,metrostations,6,42.3515489799753,-71.1190546338684,02215
+Charlestown/Boston ferry,publictransport,6,42.3674344846199,-71.0588827730469,02129
+Forest Hills Taxi,taxis,6,42.315055847168,-71.1152725219727,02130
+Silver Line Way MBTA Station,publictransport,6,42.3477329078192,-71.0395879341196,02210
+Metro Cab Assoc,taxis,6,42.3580169677734,-71.0651321411133,02108
+Hybrid-Ride,airport_shuttles,6,42.2465057373047,-71.1776733398438,02026
+120 MBTA Bus,buses,6,42.3816563934088,-71.020849943161,02128
+MBTA Wollaston Station,publictransport,6,42.2665465791122,-71.0203255712986,02170
+Qantas,airlines,6,42.369822335308,-71.0195422597412,02128
+Butler M Line MBTA Station,metrostations,6,42.272356,-71.062588,02124
+Yellow Taxi,taxis,6,42.408604,-71.013703,02151
+Premier Logan Taxi,taxis,6,42.4191055297852,-71.0039749145508,02151
+OnCabs Boston,airport_shuttles,6,42.344246,-71.076946,02116
+WestJet,airlines,6,42.3644716689138,-71.021666569281,02128
+Boston Taxi & Limousine Service,limos,6,42.3520393,-71.0725937,02116
+Cambridge Taxi Cab,taxis,6,42.3610992,-71.115097,02138
+Kent Street - Green Line MBTA,metrostations,6,42.34413839833,-71.1141486429222,02446
+MBTA Bus Route 68,publictransport,6,42.3623466491699,-71.1024627685547,02139
+Keolis,trains,6,42.3545002,-71.0515934,02210
+Logan Airport Express,airport_shuttles,6,42.3803291,-71.0253906,02128
+Eastern Bus Company,publictransport,6,42.3776066,-71.0858809,02143
+Packards Corner MBTA,metrostations,6,42.3517627145328,-71.1251893277863,02215
+London Taxi of Norwood,taxis,6,42.1933,-71.20168,02062
+Boston University East MBTA - Green Line B,metrostations,6,42.34958,-71.10364,02215
+Blandford St MBTA,publictransport,6,42.3492949,-71.100254,02215
+Boston University Central MBTA - Green Line,metrostations,6,42.3500260613752,-71.1066305190491,02215
+Brigham Circle,metrostations,6,42.334723365908,-71.1033958550171,02120
+Longwood Medical Area MBTA - E Line,metrostations,6,42.33583,-71.10035,02115
+Boston University West MBTA - Green Line,metrostations,6,42.35079,-71.1138,02446
+Winthrop Ferry,publictransport,6,42.3674098402262,-70.9708716720343,02152
+Medford City Taxi,taxis,6,42.4087015707094,-71.09286117221,02155
+M & M Livery Service,taxis,6,42.2440927,-71.150229,02026
+Riverway MBTA Station - Green Line,metrostations,6,42.3315651853523,-71.1117533625656,02115
+In & Out Car Service,taxis,6,,,
+Harvard Avenue MBTA Station - Green Line,metrostations,6,42.3504230211185,-71.1310473521149,02134
+Aeromexico,airlines,6,42.369822335308,-71.0196173615936,02128
+Boutique Air,airlines,6,42.3755187988281,-71.036750793457,02128
+Square Cab Company of Chelsea,taxis,6,42.3988,-71.03108,02150
+Virgin Atlantic Airways,airlines,6,42.3618017,-71.0252615,02128
+Washington Street MBTA Station - Green Line,metrostations,6,42.34296,-71.14818,02135
+MBTA Bus Route 79,publictransport,6,42.3515962921752,-71.0686557094109,02476
+Mbta Mission Park Stop,publictransport,6,42.3332847654819,-71.1092052608728,02115
+MBTA Bus Route 90,publictransport,6,42.38274,-71.10055,02143
+Suffolk Downs MBTA - Blue Line,metrostations,6,42.3902444971524,-70.9967947534424,02128
+City Black Cars,airport_shuttles,6,42.419036,-71.111889,02155
+MBTA Bus Route 350,publictransport,6,42.3668,-71.10602,
+Ventura Taxi,taxis,6,42.3916245,-71.0356445,02150
+Boston Airport Express,taxis,6,42.3575793,-71.05277,02110
+Marathon Cab,taxis,6,42.3370413,-71.2092214,02459
+Knight's Airport Limo Service,limos,6,42.2508685,-71.7084335,01545
+Green Cab Company,taxis,6,42.39038,-71.08613,02145
+MBTA Bus Route 109,publictransport,6,42.4301414489746,-71.0717849731445,02148
+Vamoose Bus,publictransport,6,42.3723229765892,-71.1221261322498,02238
+Patriot Taxi,taxis,6,42.415907500448,-71.00778,02151
+TRUSTED RIDE TAXI and LIMO,taxis,6,42.3742591,-71.2373056,02453
+Saugus Center Taxi,taxis,6,42.4585235165391,-71.0244870185852,01906
+Royal Air Maroc,airlines,6,42.36342,-71.0257,02128
+Yellow Cab Quincy,taxis,6,42.2859992980957,-71.0263748168945,02171
+MBTA - Bus Route 4,publictransport,6,,,
+Copa Airlines,airlines,6,42.369822335308,-71.0195959039215,02128
+All Area Taxi,taxis,6,42.358116,-71.07026,02114
+Green Line- C,publictransport,6,42.3261909484863,-71.1333541870117,02445
+Gainsborough Cab Stand,publictransport,6,42.34142,-71.08646,02115
+Long's Taxi & Airport Transportation,taxis,6,41.65892,-70.20273,02664
+Fenwood Road MBTA - E Line,metrostations,6,42.33379,-71.10558,02115
+Griggs Street MBTA - Green Line,metrostations,6,42.3486671445317,-71.1346096669342,02134
+Allston Street MBTA Station - Green Line,metrostations,6,42.34833,-71.13779,02134
+Cleveland Cab Co,taxis,6,42.3426603,-71.0991875,02215
+LATAM Airlines,airlines,6,42.36342,-71.0257,02128
+Warren Street MBTA Station - Green Line,metrostations,6,42.3486,-71.14017,02135
+Sutherland Road MBTA Station - Green Line,busstations,6,42.34134,-71.14677,02135
+Lucky 7 Taxi,taxis,6,42.4223799,-71.008008,02128
+Back of the Hill - MBTA Green Line,metrostations,6,42.329572,-71.110969,02130
+LEVEL,airlines,6,42.36342,-71.0257,02128
+South Street - Green Line MBTA,metrostations,6,42.339598,-71.157681,02135
+AMX CAR Service,taxis,6,42.2486,-71.15509,02026
+Chiswick Road MBTA Station - Green Line,metrostations,6,42.3406150265353,-71.1509624042297,02135
+Lexington Black Car,limos,6,42.45226,-71.2238,02420
+City Cab,taxis,6,42.4015838652849,-71.0048693418503,02151
+Mbta,publictransport,6,42.351963,-71.1638412,02135
+MBTA Station - Brookline Hills,metrostations,6,42.3312906285694,-71.1265095338684,02445
+Paul Revere Transportation,publictransport,6,42.3905754089355,-71.0233993530273,02150
+Winthrop Taxi & Limo,taxis,6,42.372989654541,-70.9773330688477,02152
+Quincy Cab,taxis,6,42.2495,-71.00249,02169
+Newton Taxi Company,taxis,6,42.35255,-71.18628,02458
+Silver Airways,airlines,6,42.36342,-71.0257,02128
+MBTA Bus Route 194,publictransport,6,42.401054,-71.135934,02144
+Beachmont MBTA Blue Line,metrostations,6,42.3976999,-70.9920352,02151
+MBTA Bus Route 101,publictransport,6,42.419874610862,-71.1086711883545,
+Bentley Taxi of Waltham,taxis,6,42.383177,-71.264686,02451
+Milton M Line MBTA Station,metrostations,6,42.2706821,-71.068172,02186
+Beaconsfield MBTA Station - Green Line,metrostations,6,42.335888,-71.14024,02445
+Milton Cab,taxis,6,42.2495321,-71.0661653,02186
+Town Taxi,taxis,6,42.33405,-71.120597,02445
+MBTA Bus Route 51,publictransport,6,42.343106,-71.153531,02135
+U. S. Airport Transportation,taxis,6,43.0139999,-71.4514236,03104
+Fisherman Taxi,taxis,6,42.6148063,-70.7000433,01930
+Belmont Taxi Company,taxis,6,42.3958435058594,-71.1796875,02478
+MBTA Station,metrostations,6,42.332797,-71.116666,02445
+Cambridge Cab,taxis,6,42.3814239501953,-71.0905151367188,02143
+H & M Transportation,taxis,6,42.3133392,-71.1004791,02130
+Julies Livery,taxis,6,42.372631072998,-71.0156402587891,02128
+Avianca,airlines,6,42.3633413,-71.0254363,02128
+Cambridge Union Taxi,taxis,6,42.39792,-71.13212,02140
+American Taxi,taxis,6,42.3800354003906,-71.1347045898438,02138
+Medford Taxi,taxis,6,42.4010811,-71.1128006,02155
+Logan Airport Cabs,taxis,6,42.3484268188477,-71.1547470092773,02135
+New England Taxi Cambridge,taxis,6,42.37314,-71.08157,02238
+Shore Taxi,taxis,6,42.2423897,-70.9808733,02169
+White Cab,taxis,6,42.2479463,-71.1730524,02026
+Everett Taxi,taxis,6,42.4269,-71.06068,02148
+Independent Cab Company,taxis,6,42.3988,-71.03108,02150
+Atlantic Car Service Taxi,taxis,6,42.3225708,-71.1017532,02130
+Service Taxi,taxis,6,42.3888675123453,-71.040618494153,02150
+USA Taxi Assoc,taxis,6,42.34521,-71.06179,02118
+Central Avenue M Line MBTA Station,metrostations,6,42.26318,-71.0791799,02186
+Airport Cab of Arlington,taxis,6,42.40975,-71.13288,02474
+Summit Avenue - Green Line MBTA,metrostations,6,42.341008,-71.12576,02446
+Capen Street M Line MBTA Station,metrostations,6,42.2675711183783,-71.0872154291138,02186
+A & A Metro Transportation,limos,6,41.961617,-70.971643,02324
+Medford Taxi MA,taxis,6,42.401339,-71.0974976,02155
+Bayside Coach,airport_shuttles,6,42.281,-70.87218,02045
+Brandon Hall MBTA Station - Green Line,metrostations,6,42.3399463410698,-71.1283250236876,02446
+Riverside Car Service,taxis,6,42.3083496,-71.084877,02121
+Fairbanks Street MBTA Station - Green Line,metrostations,6,42.33949,-71.1313,02446
+Taxi Time,taxis,6,42.4325942993164,-71.0600967407227,02148
+A Plus Taxi Service,airport_shuttles,6,42.19211,-71.20148,02062
+Englewood Avenue MBTA - Green Line,metrostations,6,42.3382150002825,-71.139445000223,02445
+MBTA Bus Route 430,publictransport,6,42.4301414489746,-71.0717849731445,02148
+Dean Road - Green Line,metrostations,6,42.3382150002825,-71.139445000223,02445
+Tappan Street MBTA Station - Green Line,metrostations,6,42.33837,-71.13876,02445
+Tufts Taxi Service,taxis,6,42.40077,-71.11196,02144
+Medford Cab,taxis,6,42.415247708559,-71.1106261610985,02155
+Crystal Transport,publictransport,6,42.2549514770508,-71.125617980957,02136
+Forest Hills Independent Taxi Service,taxis,6,42.2873358428478,-71.1270848661661,02131
+Medford Cab,taxis,6,42.4013071547995,-71.0976048883606,02155
+Waltham Taxi,taxis,6,42.3699774,-71.2365677,02453
+Marina Bay Taxi,taxis,6,42.265811,-71.0111463,02169
+MBTA,publictransport,6,42.4047355651855,-70.994140625,02151
+iTaxi Cambridge,taxis,6,42.3623466491699,-71.1024627685547,02139
+Massachusetts Bay Transportation Authority,publictransport,6,42.3416052002029,-71.1462036520243,02135
+Haverhill Taxi,taxis,6,42.7798261,-71.0787956,01830
+Blue Taxi,taxis,6,42.39278,-71.02358,02150
+Lowell Cab,taxis,6,42.633812,-71.297748,01852
+Valley Road M Line MBTA Station,metrostations,6,42.268335958566,-71.0813380048462,02186
+Somerville Taxi,taxis,6,42.38142,-71.09052,02143
+Boston Metro Shuttle,airport_shuttles,6,42.2943382263184,-71.1175308227539,02130
+Belmont Cab Service,taxis,6,42.39707,-71.17834,02478
+Somerville Cab of Cambridge,taxis,6,42.4007034301758,-71.1220703125,02144
+Arlington Cab Company,taxis,6,42.4204254150391,-71.1566619873047,02474
+Aaa Peravia Transportation,taxis,6,42.31978,-71.0986,02119
+Minivan Taxi Logan Airport,airport_shuttles,6,42.393056,-71.139985,02140
+McGrath's Taxi Serv,taxis,6,42.2519014,-70.9970338,02169
+City Taxi,taxis,6,42.4117755889893,-71.0187819600105,02151
+Melrose Taxi,taxis,6,42.4565062,-71.0586461,02176
+Winchester Center,publictransport,6,42.4512295,-71.1376202,01890
+Leg Car Services,taxis,6,42.42907,-71.062871,02148
+Junior's Taxi,taxis,6,42.04934,-70.1887,02657
+Pride Taxi Service Inc,taxis,6,42.0569877624512,-70.1855316162109,02657
+MBTA Bus Rte 136,publictransport,6,42.45309,-71.06647,02176
+Family Taxi Service,taxis,6,42.19211,-71.20148,02062
+Vocell Bus Company,publictransport,6,42.4135780334473,-71.0746841430664,02148
+Arlington Cabs,taxis,6,42.3991718,-71.1240559,02144
+Newton Taxi,taxis,6,42.3144989013672,-71.1922302246094,02459
+Quincy Taxi,taxis,6,42.2423897,-70.9808733,02169
+Boston Airport Taxi Cab Service,limos,6,42.4101915,-71.0910015,02155
+Stoneham Taxi,taxis,6,42.44318,-71.03455,02148
+Cambridge Taxi,taxis,6,42.3966312,-71.1298383,02140
+Garcia's Taxi,taxis,6,42.456776,-70.956343,01905
+Parkway Taxi,taxis,6,42.2873358428478,-71.1270848661661,02131
+Gold Chip Taxi,taxis,6,42.4115982,-71.011673,02151
+West Medford Cab Cellular,taxis,6,42.422339,-71.0905856,02155
+Airport Taxi-Arlington,taxis,6,42.4244915,-71.1833301,02474
+Morse Taxi,taxis,6,42.395896,-71.17619,02478
+Milton White Cab,taxis,6,42.2390670776367,-71.0840606689453,02186
+Everett Taxi,taxis,6,42.4305229187012,-71.0575561523438,02148
+Red Cab - Worcester,taxis,6,42.282092,-71.799726,01605
+Revere Airport  Taxi & Transportation,taxis,6,42.40474,-70.99439,02151
+Bill's Transportation Services,taxis,6,41.8532791137695,-71.4753799438477,02911
+Black & White Taxi,airport_shuttles,6,42.05024,-70.18985,02657
+AFS Airport Taxi,taxis,6,42.4698219299316,-70.9633026123047,01905
+Belmont Cab Service,taxis,6,42.4204254150391,-71.1566619873047,02474
+Wellesley Taxi and Limo,limos,6,42.3014336,-71.2871704,02482
+Liberty Cab Company,taxis,6,42.2022338,-71.0023521,02184
+Natick Airport Taxi and Car Services,taxis,6,42.284,-71.34617,01760
+Taxi Time,taxis,6,42.45717,-71.06405,02176
+Lexington Airport Taxi Cab,taxis,6,42.4352793,-71.2347513,02421
+Vsp Transportation,publictransport,6,42.4623832702637,-71.0097579956055,01906
+Toms Taxi,taxis,6,42.456776,-70.956345,01901
+Portsmouth Taxi,taxis,6,43.0399354,-70.7765737,03801
+C J Livery,limos,6,42.399052,-71.591305,01749
+UMIB Limousine,airport_shuttles,6,42.5050354003906,-71.070671081543,01880
+Burlington Airport Taxi Cab,airport_shuttles,6,42.4857978820801,-71.2197952270508,01803
+Airport Express Direct,airport_shuttles,6,41.732578,-70.956139,02745
+Latinos Transportation,taxis,6,42.98607,-71.44613,03103
+Barnstable Taxi and Livery,taxis,6,41.66953,-70.18828,02664
