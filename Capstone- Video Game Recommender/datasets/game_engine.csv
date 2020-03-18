@@ -1,0 +1,33 @@
+,id,companies,created_at,logo,name,platforms,slug,updated_at,url
+0,695,[13169],1557360000,87.0,KEX,"[3, 6, 14, 49, 130]",kex,1557532800,https://www.igdb.com/game_engines/kex
+1,686,[18808],1555027200,,LSSDK,"[6, 48, 165]",lssdk,1555459200,https://www.igdb.com/game_engines/lssdk
+2,421,[9728],1483056000,92.0,Amazon Lumberyard,"[6, 34, 39, 48, 49]",amazon-lumberyard,1572825600,https://www.igdb.com/game_engines/amazon-lumberyard
+3,681,[2952],1554854400,85.0,KT Engine,"[6, 48, 49, 130]",kt-engine,1554854400,https://www.igdb.com/game_engines/kt-engine
+4,186,[5025],1425427200,31.0,OEngine,"[6, 48, 49]",oengine,1425427200,https://www.igdb.com/game_engines/oengine
+5,200,[17],1428710400,35.0,Evolution,"[6, 9, 12, 14, 48, 49]",evolution,1508889600,https://www.igdb.com/game_engines/evolution
+6,95,[126],1414627200,37.0,Creation Engine,"[6, 9, 12, 48, 49]",creation-engine,1567382400,https://www.igdb.com/game_engines/creation-engine
+7,24,[908],1402704000,15.0,REDengine,"[6, 12, 14, 48, 49]",redengine,1506470400,https://www.igdb.com/game_engines/redengine
+8,118,[38],1416528000,,Dunia Engine,"[6, 9, 12, 48, 49]",dunia-engine,1555804800,https://www.igdb.com/game_engines/dunia-engine
+9,318,[405],1456876800,40.0,Silk Engine,"[6, 9, 12, 48, 49]",silk-engine,1566604800,https://www.igdb.com/game_engines/silk-engine
+10,10,[38],1399507200,86.0,AnvilNext,"[6, 9, 12, 41, 46, 48, 49]",anvilnext,1581638400,https://www.igdb.com/game_engines/anvilnext
+11,601,[3067],1539043200,,Unity 2018,"[3, 6, 14, 37, 46, 48, 49, 74, 82, 130, 137, 162, 163, 165]",unity-2018,1583107200,https://www.igdb.com/game_engines/unity-2018
+12,89,[1630],1414454400,28.0,PhysX,"[3, 5, 6, 9, 12, 34, 48, 49]",physx,1562976000,https://www.igdb.com/game_engines/physx
+13,2,[94],1399420800,7.0,Frostbite,"[6, 9, 12, 48, 49]",frostbite,1527033600,https://www.igdb.com/game_engines/frostbite
+14,26,[364],1402790400,16.0,RAGE,"[5, 6, 9, 12, 14, 48, 49, 203]",rage,1579305600,https://www.igdb.com/game_engines/rage
+15,58,[1],1407283200,27.0,Ignite Engine,"[6, 48, 49]",ignite-engine,1496880000,https://www.igdb.com/game_engines/ignite-engine
+16,29,[170],1402963200,24.0,Fox Engine,"[6, 9, 12, 48, 49]",fox-engine,1574899200,https://www.igdb.com/game_engines/fox-engine
+17,123,"[428, 438, 659]",1417392000,,IW Engine,"[5, 6, 9, 12, 14, 41, 48, 49]",iw-engine,1549756800,https://www.igdb.com/game_engines/iw-engine
+18,42,[4692],1405728000,25.0,SpeedTree,"[3, 6, 9, 12, 14, 46, 48, 49]",speedtree,1573430400,https://www.igdb.com/game_engines/speedtree
+19,18,[314],1401148800,33.0,4A Engine,"[3, 6, 9, 12, 14, 48, 49]",4a-engine,1559865600,https://www.igdb.com/game_engines/4a-engine
+20,104,[4835],1414800000,82.0,MonoGame,"[3, 6, 14, 34, 39, 46, 48, 49, 130]",monogame,1579996800,https://www.igdb.com/game_engines/monogame
+21,55,[3405],1406678400,32.0,Euphoria Engine,"[6, 9, 12, 34, 39, 48, 49]",euphoria-engine,1560816000,https://www.igdb.com/game_engines/euphoria-engine
+22,25,[249],1402790400,13.0,CryEngine,"[3, 6, 9, 12, 34, 39, 41, 48, 49]",cryengine,1577664000,https://www.igdb.com/game_engines/cryengine
+23,404,[3067],1478822400,83.0,Unity 4,"[3, 5, 6, 9, 12, 14, 34, 37, 39, 41, 46, 48, 49, 74, 137]",unity-4,1577923200,https://www.igdb.com/game_engines/unity-4
+24,492,[12931],1500336000,,StoryForge,"[6, 48, 49]",storyforge,1505001600,https://www.igdb.com/game_engines/storyforge
+25,574,[437],1528416000,,Apex,"[6, 48, 49]",apex,1573948800,https://www.igdb.com/game_engines/apex
+26,78,[108],1410739200,18.0,Chrome Engine,"[6, 9, 12, 48, 49]",chrome-engine,1556064000,https://www.igdb.com/game_engines/chrome-engine
+27,47,[184],1405814400,20.0,id Tech 5,"[6, 9, 12, 14, 48, 49]",id-tech-5,1526860800,https://www.igdb.com/game_engines/id-tech-5
+28,79,[6932],1411862400,36.0,GameMaker: Studio,"[3, 6, 9, 14, 34, 39, 46, 48, 49, 74]",gamemaker-studio,1574121600,https://www.igdb.com/game_engines/gamemaker-studio
+29,412,"[170, 1843]",1481673600,84.0,Decima,[48],decima,1554681600,https://www.igdb.com/game_engines/decima
+30,509,[3067],1505347200,,Unity 2017,"[3, 6, 14, 34, 37, 39, 46, 48, 49, 74, 82, 130, 137, 162, 163, 165]",unity-2017,1581465600,https://www.igdb.com/game_engines/unity-2017
+31,13,[3067],1399766400,73.0,Unity,"[3, 5, 6, 9, 12, 14, 34, 39, 41, 46, 48, 49, 74, 82]",unity,1583107200,https://www.igdb.com/game_engines/unity

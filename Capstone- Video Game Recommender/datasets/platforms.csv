@@ -1,0 +1,168 @@
+,id,abbreviation,alternative_name,category,created_at,name,platform_logo,product_family,slug,summary,updated_at,url,versions,websites,generation
+0,3,Linux,GNU/Linux,4.0,1297555200,Linux,33.0,4.0,linux,"Linux is a free and open-source (FOSS/FLOSS) Operating System. In a more precise and complex definition, Linux is an open-source OS kernel on which a large variety of Operating Systems (known as Linux distributions) are built.",1392940800,https://www.igdb.com/platforms/linux,[44],[1],
+1,4,N64,N64,1.0,1297555200,Nintendo 64,260.0,5.0,n64,,1565136000,https://www.igdb.com/platforms/n64,"[51, 122]",[35],5.0
+2,5,Wii,Revolution,1.0,1297555200,Wii,326.0,5.0,wii,,1565136000,https://www.igdb.com/platforms/wii,"[72, 283]",,7.0
+3,6,PC,mswin,4.0,1297555200,PC (Microsoft Windows),203.0,,win,,1470009600,https://www.igdb.com/platforms/win,"[1, 13, 14, 15, 124]",[2],
+4,7,PS1,,1.0,1297555200,PlayStation,278.0,1.0,ps,,1392076800,https://www.igdb.com/platforms/ps,[57],,5.0
+5,8,PS2,PS2,1.0,1297555200,PlayStation 2,254.0,1.0,ps2,,1414972800,https://www.igdb.com/platforms/ps2,"[58, 114]",,6.0
+6,9,PS3,,1.0,1297555200,PlayStation 3,79.0,1.0,ps3,,1391558400,https://www.igdb.com/platforms/ps3,"[4, 5, 6]",[3],7.0
+7,11,XBOX,,1.0,1297555200,Xbox,266.0,2.0,xbox,,1392076800,https://www.igdb.com/platforms/xbox,[77],,6.0
+8,12,X360,xbx360,1.0,1297555200,Xbox 360,250.0,2.0,xbox360,"Xbox 360 brings you a total games and entertainment experience. The largest library of games, including titles that get you right into the thick of it with Kinect. Plus, your whole family can watch HD movies, TV shows, live events, music, sports and more—across all your devices. Xbox 360 is the center of your games and entertainment universe.",1392854400,https://www.igdb.com/platforms/xbox360,"[2, 3, 83]",[4],7.0
+9,13,DOS,,4.0,1297641600,PC DOS,38.0,,dos,,1392076800,https://www.igdb.com/platforms/dos,[56],,
+10,14,Mac,Mac OS,4.0,1297641600,Mac,100.0,,mac,,1394236800,https://www.igdb.com/platforms/mac,"[45, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151]",[5],
+11,15,C64,,6.0,1297814400,Commodore C64/128,300.0,,c64,,1468454400,https://www.igdb.com/platforms/c64,[36],,
+12,16,Amiga,,6.0,1297814400,Amiga,,,amiga,,1417392000,https://www.igdb.com/platforms/amiga,"[19, 109, 110, 111, 112, 113]",,
+13,18,NES,NES,1.0,1297900800,Nintendo Entertainment System (NES),229.0,5.0,nes,,1424044800,https://www.igdb.com/platforms/nes,"[53, 175]",,3.0
+14,19,SNES,"SNES, Super Nintendo",1.0,1297900800,Super Nintendo Entertainment System (SNES),106.0,5.0,snes--1,,1439164800,https://www.igdb.com/platforms/snes--1,"[68, 95, 97, 139, 177]",,4.0
+15,20,NDS,DS,5.0,1297900800,Nintendo DS,245.0,5.0,nds,,1502668800,https://www.igdb.com/platforms/nds,"[52, 190, 191, 192]",,7.0
+16,21,NGC,Dolphin,1.0,1297987200,Nintendo GameCube,262.0,,ngc,,1565136000,https://www.igdb.com/platforms/ngc,"[54, 121, 125]",,6.0
+17,22,GBC,,5.0,1300147200,Game Boy Color,273.0,,gbc,,1392076800,https://www.igdb.com/platforms/gbc,[41],,5.0
+18,23,DC,,1.0,1300147200,Dreamcast,270.0,,dc,,1392076800,https://www.igdb.com/platforms/dc,[16],,6.0
+19,24,GBA,GBA,5.0,1300147200,Game Boy Advance,255.0,5.0,gba,,1471478400,https://www.igdb.com/platforms/gba,"[40, 193, 194]",,6.0
+20,25,ACPC,Colour Personal Computer,6.0,1300147200,Amstrad CPC,114.0,,acpc,,1468454400,https://www.igdb.com/platforms/acpc,[20],,
+21,26,ZXS,,6.0,1300147200,ZX Spectrum,,,zxs,,1468540800,https://www.igdb.com/platforms/zxs,[79],,
+22,27,MSX,,6.0,1300147200,MSX,307.0,,msx,,1468540800,https://www.igdb.com/platforms/msx,[47],,
+23,29,Genesis,Sega Genesis,1.0,1300924800,Sega Mega Drive/Genesis,293.0,3.0,smd,,1400112000,https://www.igdb.com/platforms/smd,[64],,4.0
+24,30,Sega32,,1.0,1300924800,Sega 32X,279.0,3.0,sega32,,1555977600,https://www.igdb.com/platforms/sega32,[61],,4.0
+25,32,Saturn,"JVC Saturn, Hi-Saturn, Samsung Saturn, V-Saturn",1.0,1301961600,Sega Saturn,49.0,3.0,saturn,,1540771200,https://www.igdb.com/platforms/saturn,[65],[6],5.0
+26,33,Game Boy,,5.0,1302307200,Game Boy,274.0,5.0,gb,,1475625600,https://www.igdb.com/platforms/gb,"[39, 181, 182]",,4.0
+27,34,Android,Infocusa3,4.0,1302566400,Android,195.0,,android,,1556150400,https://www.igdb.com/platforms/android,"[7, 8, 9, 10, 11, 12, 236, 237, 238, 239]",[7],
+28,35,Game Gear,,5.0,1303862400,Sega Game Gear,287.0,3.0,gamegear,,1469404800,https://www.igdb.com/platforms/gamegear,[62],,4.0
+29,36,xla,,3.0,1317600000,Xbox Live Arcade,19.0,2.0,xla,,1391904000,https://www.igdb.com/platforms/xla,[31],[8],
+30,37,3DS,3DS,5.0,1317600000,Nintendo 3DS,240.0,5.0,3ds,,1473984000,https://www.igdb.com/platforms/3ds,[50],[9],8.0
+31,38,PSP,PSP,5.0,1317600000,PlayStation Portable,214.0,1.0,psp,,1552780800,https://www.igdb.com/platforms/psp,"[59, 276, 277, 278, 279]",,7.0
+32,39,iOS,,4.0,1317686400,iOS,248.0,,ios,,1391644800,https://www.igdb.com/platforms/ios,[43],,
+33,41,WiiU,,1.0,1317686400,Wii U,239.0,5.0,wiiu,,1489968000,https://www.igdb.com/platforms/wiiu,[73],[10],8.0
+34,42,NGage,,5.0,1317686400,N-Gage,258.0,,ngage,,1392076800,https://www.igdb.com/platforms/ngage,"[49, 118]",,6.0
+35,44,zod,,5.0,1317686400,Tapwave Zodiac,46.0,,zod,,1392076800,https://www.igdb.com/platforms/zod,[69],,
+36,45,psn,PSN,3.0,1318118400,PlayStation Network,321.0,1.0,psn,,1391904000,https://www.igdb.com/platforms/psn,[32],,
+37,46,Vita,PS Vita,5.0,1321660800,PlayStation Vita,232.0,1.0,psvita,,1552780800,https://www.igdb.com/platforms/psvita,"[60, 274, 275]",[34],8.0
+38,47,VC,,3.0,1326240000,Virtual Console (Nintendo),202.0,5.0,vc,,1514678400,https://www.igdb.com/platforms/vc,[71],,
+39,48,PS4,PS4,1.0,1326499200,PlayStation 4,231.0,1.0,ps4--1,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. PS4 puts gamers first with an astounding launch line-up and over 180 games in development. Play amazing top-tier blockbusters and innovative indie hits on PS4. Developer inspired, gamer focused.",1433116800,https://www.igdb.com/platforms/ps4--1,"[17, 178, 179]",[11],8.0
+40,49,XONE,Xbone,1.0,1326499200,Xbox One,,2.0,xboxone,"Welcome to a new generation of games and entertainment. Where games push the boundaries of realism. And television obeys your every command. Where listening to music while playing a game is a snap. And you can jump from TV to movies to music to a game in an instant. Where your experience is custom tailored to you. And the entertainment you love is all in one place. Welcome to the all-in-one, Xbox One",1429920000,https://www.igdb.com/platforms/xboxone,"[78, 180, 185, 188]",[12],8.0
+41,50,3DO,,1.0,1326758400,3DO Interactive Multiplayer,282.0,,3do,,1392076800,https://www.igdb.com/platforms/3do,[18],,5.0
+42,51,fds,Famicom Disk System,1.0,1339200000,Family Computer Disk System,299.0,5.0,fds,,1540771200,https://www.igdb.com/platforms/fds,[38],,3.0
+43,52,Arcade,,,1339977600,Arcade,,,arcade,,1391817600,https://www.igdb.com/platforms/arcade,[22],,
+44,53,MSX2,,6.0,1340064000,MSX2,308.0,,msx2,,1468540800,https://www.igdb.com/platforms/msx2,[48],,
+45,55,Mobile,,,1340668800,Mobile,,,mobile,,1391817600,https://www.igdb.com/platforms/mobile,[46],,
+46,56,WiiWare,,,1341014400,WiiWare,,,wiiware,,1391817600,https://www.igdb.com/platforms/wiiware,[74],,
+47,57,WonderSwan,,5.0,1342224000,WonderSwan,263.0,,wonderswan,,1392076800,https://www.igdb.com/platforms/wonderswan,"[76, 84, 117]",,5.0
+48,58,SFAM,SFC,1.0,1351209600,Super Famicom,271.0,5.0,sfam,,1399766400,https://www.igdb.com/platforms/sfam,"[67, 98]",,4.0
+49,59,Atari2600,,1.0,1372204800,Atari 2600,309.0,,atari2600,,1392076800,https://www.igdb.com/platforms/atari2600,[24],,2.0
+50,60,Atari7800,Atari 7800 ProSystem,1.0,1372204800,Atari 7800,303.0,,atari7800,,1392076800,https://www.igdb.com/platforms/atari7800,[26],,3.0
+51,61,Lynx,,5.0,1372204800,Atari Lynx,290.0,,lynx,,1392076800,https://www.igdb.com/platforms/lynx,"[29, 189]",,4.0
+52,62,Jaguar,,1.0,1372204800,Atari Jaguar,286.0,,jaguar,,1392076800,https://www.igdb.com/platforms/jaguar,[28],,5.0
+53,63,Atari-ST,,6.0,1372291200,Atari ST/STE,,,atari-st,,1468454400,https://www.igdb.com/platforms/atari-st,[30],,
+54,64,SMS,SMS,1.0,1372464000,Sega Master System,298.0,3.0,sms,,1515628800,https://www.igdb.com/platforms/sms,[63],,3.0
+55,65,Atari8bit,,6.0,1372464000,Atari 8-bit,,,atari8bit,,1468540800,https://www.igdb.com/platforms/atari8bit,"[27, 104]",,
+56,66,Atari5200,Atari 5200 SuperSystem,1.0,1372464000,Atari 5200,304.0,,atari5200,the mother text,1416700800,https://www.igdb.com/platforms/atari5200,[25],,2.0
+57,67,intellivision,,1.0,1372464000,Intellivision,312.0,,intellivision,,1392076800,https://www.igdb.com/platforms/intellivision,[42],,2.0
+58,68,colecovision,,1.0,1372464000,ColecoVision,311.0,,colecovision,,1392076800,https://www.igdb.com/platforms/colecovision,[35],,2.0
+59,69,bbcmicro,,6.0,1372464000,BBC Microcomputer System,294.0,,bbcmicro,,1468454400,https://www.igdb.com/platforms/bbcmicro,[33],,
+60,70,vectrex,,1.0,1372464000,Vectrex,305.0,,vectrex,,1392076800,https://www.igdb.com/platforms/vectrex,[70],,2.0
+61,71,vic-20,,6.0,1372464000,Commodore VIC-20,313.0,,vic-20,,1429142400,https://www.igdb.com/platforms/vic-20,[37],,
+62,72,Ouya,,1.0,1373328000,Ouya,236.0,,ouya,"The Ouya (/ˈuːjə/ oo-yə), stylized OUYA, is a microconsole running its own version of the Android operating system, developed by Ouya Inc. Julie Uhrman founded the project in 2012. She brought in designer Yves Béhar to collaborate on the design of the project, and Muffi Ghadiali as product manager to put together the engineering team. Development was funded via Kickstarter, raising $8.5 million and becoming the website's second-highest-earning project in its history.
+
+Units started to ship to Kickstarter backers on March 28, 2013. The console was released to the general public on June 25, 2013, and features an exclusive Ouya store for applications and games designed specifically for the Ouya platform, of which the majority are casual games targeted at or used by a mass audience of casual gamers. Out of the box, Ouya supports media apps such as TwitchTV and XBMC media player. It runs a modified version of Android 4.1 Jelly Bean, and is open to rooting without voiding the warranty (developer models ordered during the Kickstarter campaign for $699 or $1,337 come pre-rooted). The console's hardware design allows it to be easily opened up, requiring only a standard screwdriver for easy modding and possible hardware addons.
+
+All systems can be used as development kits, allowing any Ouya owner to also be a developer, without the need for licensing fees. All games are required to have some kind of free-to-play aspect, whether that be completely free, has a free trial, or has purchasable upgrades, levels, or other in-game items. The Ouya is classified as part of the eighth generation of video game consoles and as such is a rival competing against the PlayStation 4, Xbox One, and Wii U.",1438905600,https://www.igdb.com/platforms/ouya,[55],[13],8.0
+63,73,blackberry,,4.0,1384387200,BlackBerry OS,40.0,,blackberry,,1392076800,https://www.igdb.com/platforms/blackberry,[34],,
+64,74,Win Phone,WP,4.0,1384387200,Windows Phone,363.0,,winphone,,1572739200,https://www.igdb.com/platforms/winphone,"[224, 225, 226, 227]",,
+65,75,Apple][,apple ][,6.0,1387756800,Apple II,315.0,,appleii,"The Apple II is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak, manufactured by Apple Computer (now Apple Inc.) and introduced in 1977. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993.",1468454400,https://www.igdb.com/platforms/appleii,[21],,
+66,77,x1,,6.0,1390867200,Sharp X1,297.0,,x1,,1468454400,https://www.igdb.com/platforms/x1,[66],,
+67,78,segacd,Mega CD,1.0,1391904000,Sega CD,284.0,3.0,segacd,,1391904000,https://www.igdb.com/platforms/segacd,[80],,4.0
+68,79,neogeomvs,Neo Geo Multi Video System,2.0,1392076800,Neo Geo MVS,70.0,,neogeomvs,,1525996800,https://www.igdb.com/platforms/neogeomvs,[81],,
+69,80,neogeoaes,AES,1.0,1392076800,Neo Geo AES,69.0,,neogeoaes,,1399680000,https://www.igdb.com/platforms/neogeoaes,[82],,4.0
+70,82,browser,Internet,3.0,1395273600,Web browser,,,browser,,1553299200,https://www.igdb.com/platforms/browser,[86],,
+71,84,sg1000,Sega Game 1000,1.0,1397433600,SG-1000,223.0,3.0,sg1000,,1397865600,https://www.igdb.com/platforms/sg1000,"[91, 92]",,3.0
+72,85,donner30,,6.0,1399680000,Donner Model 30,,,donner30,,1468540800,https://www.igdb.com/platforms/donner30,[93],,
+73,86,turbografx16,,1.0,1400803200,TurboGrafx-16/PC Engine,296.0,,turbografx16--1,,1441152000,https://www.igdb.com/platforms/turbografx16--1,[99],,4.0
+74,87,virtualboy,,1.0,1400803200,Virtual Boy,280.0,5.0,virtualboy,,1515542400,https://www.igdb.com/platforms/virtualboy,[100],,5.0
+75,88,odyssey,Magnavox Odyssey; Odysee; Odisea; Odissea,1.0,1407542400,Odyssey,,,odyssey--1,,1458432000,https://www.igdb.com/platforms/odyssey--1,"[101, 167, 168, 169, 170, 171]",,1.0
+76,89,microvision,,5.0,1407542400,Microvision,314.0,,microvision--1,,1407542400,https://www.igdb.com/platforms/microvision--1,[102],,2.0
+77,90,cpet,,6.0,1407542400,Commodore PET,,,cpet,,1468454400,https://www.igdb.com/platforms/cpet,[103],,
+78,91,astrocade,,,1411603200,Bally Astrocade,,,astrocade,,1411603200,https://www.igdb.com/platforms/astrocade,[105],,
+79,92,steam,,4.0,1413590400,SteamOS,234.0,,steam--1,,1413676800,https://www.igdb.com/platforms/steam--1,[106],[14],
+80,93,C16,,6.0,1414195200,Commodore 16,,,c16,,1468540800,https://www.igdb.com/platforms/c16,[107],,
+81,94,C+4,,6.0,1414195200,Commodore Plus/4,310.0,,c-plus-4,,1468454400,https://www.igdb.com/platforms/c-plus-4,[108],,
+82,95,pdp1,Programmed Data Processor-1,6.0,1418515200,PDP-1,,,pdp1,,1418515200,https://www.igdb.com/platforms/pdp1,[115],,
+83,96,pdp10,,6.0,1418515200,PDP-10,,,pdp10,,1418515200,https://www.igdb.com/platforms/pdp10,[116],,
+84,97,pdp-8,,6.0,1424390400,PDP-8,,,pdp-8--1,,1424390400,https://www.igdb.com/platforms/pdp-8--1,[119],,
+85,98,gt40,,,1424390400,DEC GT40,,,gt40,,1424390400,https://www.igdb.com/platforms/gt40,[120],,
+86,99,famicom,Famicom,1.0,1428796800,Family Computer (FAMICOM),277.0,5.0,famicom,,1502668800,https://www.igdb.com/platforms/famicom,[123],,3.0
+87,100,analogueelectronics,,,1437868800,Analogue electronics,,,analogueelectronics,,1437868800,https://www.igdb.com/platforms/analogueelectronics,[126],,
+88,101,nimrod,,6.0,1437868800,Ferranti Nimrod Computer,,,nimrod,,1437868800,https://www.igdb.com/platforms/nimrod,[127],,
+89,102,edsac,Electronic Delay Storage Automatic Calculator,6.0,1437868800,EDSAC,,,edsac--1,,1437868800,https://www.igdb.com/platforms/edsac--1,[128],,
+90,103,pdp-7,,,1437868800,PDP-7,,,pdp-7--1,,1437868800,https://www.igdb.com/platforms/pdp-7--1,[129],,
+91,104,hp2100,,6.0,1437955200,HP 2100,,,hp2100,,1437955200,https://www.igdb.com/platforms/hp2100,[130],,
+92,105,hp3000,,6.0,1437955200,HP 3000,,,hp3000,,1437955200,https://www.igdb.com/platforms/hp3000,[131],,
+93,106,sdssigma7,,6.0,1437955200,SDS Sigma 7,,,sdssigma7,,1437955200,https://www.igdb.com/platforms/sdssigma7,[132],,
+94,107,call-a-computer,,6.0,1437955200,Call-A-Computer time-shared mainframe computer system,,,call-a-computer,,1437955200,https://www.igdb.com/platforms/call-a-computer,[133],,
+95,108,pdp11,,6.0,1438041600,PDP-11,,,pdp11,,1438041600,https://www.igdb.com/platforms/pdp11,[134],,
+96,109,cdccyber70,,6.0,1438041600,CDC Cyber 70,,,cdccyber70,,1438041600,https://www.igdb.com/platforms/cdccyber70,[135],,
+97,110,plato,Programmed Logic for Automatic Teaching Operations,6.0,1438473600,PLATO,,,plato--1,,1468454400,https://www.igdb.com/platforms/plato--1,[136],,
+98,111,imlac-pds1,,,1438473600,Imlac PDS-1,,,imlac-pds1,,1438473600,https://www.igdb.com/platforms/imlac-pds1,[137],,
+99,112,microcomputer,,,1438732800,Microcomputer,,,microcomputer--1,,1438732800,https://www.igdb.com/platforms/microcomputer--1,[138],,
+100,113,,,3.0,1439337600,OnLive Game System,320.0,,onlive-game-system,,1439683200,https://www.igdb.com/platforms/onlive-game-system,[140],[15],
+101,114,,,1.0,1441238400,Amiga CD32,283.0,,amiga-cd32,,1441238400,https://www.igdb.com/platforms/amiga-cd32,[152],,
+102,115,,,6.0,1441238400,Apple IIGS,295.0,,apple-iigs,,1441238400,https://www.igdb.com/platforms/apple-iigs,[153],,
+103,116,,,6.0,1441238400,Acorn Archimedes,,,acorn-archimedes,,1441238400,https://www.igdb.com/platforms/acorn-archimedes,[154],,
+104,117,,,1.0,1441238400,Philips CD-i,288.0,,philips-cd-i,,1441238400,https://www.igdb.com/platforms/philips-cd-i,[155],,
+105,118,,,6.0,1441238400,FM Towns,,,fm-towns,,1441238400,https://www.igdb.com/platforms/fm-towns,[156],,
+106,119,,,5.0,1441238400,Neo Geo Pocket,219.0,,neo-geo-pocket,,1559260800,https://www.igdb.com/platforms/neo-geo-pocket,[157],,5.0
+107,120,,,5.0,1441238400,Neo Geo Pocket Color,269.0,,neo-geo-pocket-color,,1559260800,https://www.igdb.com/platforms/neo-geo-pocket-color,[158],,5.0
+108,121,,,6.0,1441238400,Sharp X68000,306.0,,sharp-x68000,,1441238400,https://www.igdb.com/platforms/sharp-x68000,[159],,
+109,122,,,1.0,1441411200,Nuon,268.0,,nuon,,1441411200,https://www.igdb.com/platforms/nuon,[160],,
+110,123,,,5.0,1441411200,WonderSwan Color,261.0,,wonderswan-color,,1559260800,https://www.igdb.com/platforms/wonderswan-color,[161],,5.0
+111,124,,,5.0,1441411200,SwanCrystal,319.0,,swancrystal,,1441411200,https://www.igdb.com/platforms/swancrystal,[162],,
+112,125,,,6.0,1445126400,PC-8801,,,pc-8801,,1445126400,https://www.igdb.com/platforms/pc-8801,[163],,
+113,126,,,6.0,1449705600,TRS-80,,,trs-80,,1449705600,https://www.igdb.com/platforms/trs-80,[164],,
+114,127,,,1.0,1457395200,Fairchild Channel F,316.0,,fairchild-channel-f,,1506384000,https://www.igdb.com/platforms/fairchild-channel-f,"[165, 212]",,2.0
+115,128,supergrafx,,6.0,1457395200,PC Engine SuperGrafx,,,supergrafx,,1457395200,https://www.igdb.com/platforms/supergrafx,[166],,
+116,129,ti-99,,6.0,1459296000,Texas Instruments TI-99,,,ti-99,,1459296000,https://www.igdb.com/platforms/ti-99,[172],,
+117,130,Switch,NX,1.0,1465948800,Nintendo Switch,227.0,5.0,switch,,1550534400,https://www.igdb.com/platforms/switch,[173],[16],8.0
+118,131,,Nintendo Super Disc,6.0,1468454400,Nintendo PlayStation,,5.0,nintendo-playstation,,1468540800,https://www.igdb.com/platforms/nintendo-playstation,[174],,
+119,132,,,3.0,1469664000,Amazon Fire TV,,,amazon-fire-tv,,1469664000,https://www.igdb.com/platforms/amazon-fire-tv,[176],,
+120,133,,Magnavox Odyssey²,6.0,1477267200,Philips Videopac G7000,112.0,,philips-videopac-g7000,,1477267200,https://www.igdb.com/platforms/philips-videopac-g7000,[183],,
+121,134,,,6.0,1479427200,Acorn Electron,301.0,,acorn-electron,,1479427200,https://www.igdb.com/platforms/acorn-electron,[184],,
+122,135,,,2.0,1492041600,Hyper Neo Geo 64,117.0,,hyper-neo-geo-64,,1492041600,https://www.igdb.com/platforms/hyper-neo-geo-64,[186],,
+123,136,,,1.0,1492041600,Neo Geo CD,281.0,,neo-geo-cd,,1492041600,https://www.igdb.com/platforms/neo-geo-cd,[187],,4.0
+124,137,,,5.0,1504569600,New Nintendo 3DS,235.0,5.0,new-nintendo-3ds,,1559260800,https://www.igdb.com/platforms/new-nintendo-3ds,[195],[17],8.0
+125,138,,,1.0,1505174400,VC 4000,134.0,,vc-4000,,1505174400,https://www.igdb.com/platforms/vc-4000,[196],[18],2.0
+126,139,,,1.0,1505174400,1292 Advanced Programmable Video System,136.0,,1292-advanced-programmable-video-system,,1505174400,https://www.igdb.com/platforms/1292-advanced-programmable-video-system,"[197, 213]",,2.0
+127,140,,,6.0,1505520000,AY-3-8500,127.0,,ay-3-8500,,1510012800,https://www.igdb.com/platforms/ay-3-8500,"[198, 201, 202, 203, 204]",,
+128,141,,,6.0,1505520000,AY-3-8610,,,ay-3-8610,,1510012800,https://www.igdb.com/platforms/ay-3-8610,[199],,
+129,142,,,1.0,1505520000,PC-50X Family,131.0,,pc-50x-family,,1505520000,https://www.igdb.com/platforms/pc-50x-family,"[200, 205]",,1.0
+130,143,,,1.0,1505779200,AY-3-8760,,,ay-3-8760,,1505779200,https://www.igdb.com/platforms/ay-3-8760,[206],,
+131,144,,,1.0,1505779200,AY-3-8710,,,ay-3-8710,,1505779200,https://www.igdb.com/platforms/ay-3-8710,[207],,
+132,145,,,1.0,1505779200,AY-3-8603,,,ay-3-8603,,1505779200,https://www.igdb.com/platforms/ay-3-8603,[208],,
+133,146,,,1.0,1505779200,AY-3-8605,,,ay-3-8605,,1505779200,https://www.igdb.com/platforms/ay-3-8605,[209],,
+134,147,,,1.0,1505779200,AY-3-8606,,,ay-3-8606,,1505779200,https://www.igdb.com/platforms/ay-3-8606,[210],,
+135,148,,,1.0,1505779200,AY-3-8607,,,ay-3-8607,,1505779200,https://www.igdb.com/platforms/ay-3-8607,[211],,
+136,149,,,6.0,1508976000,PC-98,,,pc-98,,1508976000,https://www.igdb.com/platforms/pc-98,[214],,
+137,150,,,6.0,1508976000,Turbografx-16/PC Engine CD,291.0,,turbografx-16-slash-pc-engine-cd,,1508976000,https://www.igdb.com/platforms/turbografx-16-slash-pc-engine-cd,[215],,
+138,151,,,6.0,1510012800,TRS-80 Color Computer,,,trs-80-color-computer,,1510012800,https://www.igdb.com/platforms/trs-80-color-computer,[216],[19],
+139,152,,,6.0,1510012800,FM-7,,,fm-7,,1510012800,https://www.igdb.com/platforms/fm-7,[217],[20],
+140,153,,,6.0,1510012800,Dragon 32/64,302.0,,dragon-32-slash-64,,1510012800,https://www.igdb.com/platforms/dragon-32-slash-64,[218],[21],
+141,154,,,6.0,1510012800,Amstrad PCW,,,amstrad-pcw,,1510012800,https://www.igdb.com/platforms/amstrad-pcw,[219],[22],
+142,155,,,6.0,1510012800,Tatung Einstein,,,tatung-einstein,,1510012800,https://www.igdb.com/platforms/tatung-einstein,[220],[23],
+143,156,,,6.0,1510012800,Thomson MO5,,,thomson-mo5,,1510012800,https://www.igdb.com/platforms/thomson-mo5,[221],[24],
+144,157,,,6.0,1510012800,NEC PC-6000 Series,,,nec-pc-6000-series,,1510012800,https://www.igdb.com/platforms/nec-pc-6000-series,[222],[25],
+145,158,,Commodore Dynamic Total Vision,6.0,1510012800,Commodore CDTV,292.0,,commodore-cdtv,,1522972800,https://www.igdb.com/platforms/commodore-cdtv,[223],[26],
+146,159,,,5.0,1516752000,Nintendo DSi,246.0,5.0,nintendo-dsi,,1559260800,https://www.igdb.com/platforms/nintendo-dsi,"[228, 229]",,7.0
+147,160,,,3.0,1517961600,Nintendo eShop,201.0,,nintendo-eshop,,1517961600,https://www.igdb.com/platforms/nintendo-eshop,[230],[27],
+148,161,,WMR,,1518652800,Windows Mixed Reality,,,windows-mixed-reality,,1518652800,https://www.igdb.com/platforms/windows-mixed-reality,[231],[28],
+149,162,Oculus VR,,,1518652800,Oculus VR,158.0,,oculus-vr,,1561939200,https://www.igdb.com/platforms/oculus-vr,[232],[29],
+150,163,Steam VR,,,1518652800,SteamVR,159.0,,steam-vr,,1561939200,https://www.igdb.com/platforms/steam-vr,[233],[30],
+151,164,,,,1518652800,Daydream,160.0,,daydream,,1518652800,https://www.igdb.com/platforms/daydream,[234],[31],
+152,165,PlayStation VR,,,1518652800,PlayStation VR,161.0,,playstation-vr,,1561939200,https://www.igdb.com/platforms/playstation-vr,[235],[32],
+153,166,,,5.0,1534896000,Pokémon mini,267.0,5.0,pokemon-mini,,1534982400,https://www.igdb.com/platforms/pokemon-mini,[272],[33],
+154,167,,PS5,1.0,1543449600,PlayStation 5,,1.0,playstation-5,,1579132800,https://www.igdb.com/platforms/playstation-5,[273],,
+155,169,,Project Scarlett,1.0,1565222400,Xbox Series X,327.0,2.0,xbox-series-x,,1576195200,https://www.igdb.com/platforms/xbox-series-x,[284],"[36, 105]",
+156,170,Stadia,Stadia,3.0,1565222400,Google Stadia,328.0,,stadia,,1574294400,https://www.igdb.com/platforms/stadia,[285],[37],
+157,203,,Google Stadia,,1572652800,Stadia,,,stadia--1,,1572739200,https://www.igdb.com/platforms/stadia--1,"[318, 319]",[70],
+158,236,,,6.0,1573776000,Exidy Sorcerer,,,exidy-sorcerer,,1573776000,https://www.igdb.com/platforms/exidy-sorcerer,[353],,
+159,237,,,6.0,1573776000,Sol-20,,,sol-20,,1573776000,https://www.igdb.com/platforms/sol-20,[354],,
+160,238,,Digital Versatile Disc Player,1.0,1575331200,DVD Player,426.0,,dvd-player,,1575504000,https://www.igdb.com/platforms/dvd-player,[355],[104],
+161,239,,,1.0,1575331200,Blu-ray Player,427.0,,blu-ray-player,,1575504000,https://www.igdb.com/platforms/blu-ray-player,[356],[103],
+162,240,,,1.0,1581811200,Zeebo,429.0,,zeebo,,1582156800,https://www.igdb.com/platforms/zeebo,[357],[106],7.0
